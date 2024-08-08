@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Andres Mendez Vallejo</h1>
-<h3 align="center">A professional passionate about geotechnologies and GIS</h3>
+<h3 align="center">A professional passionate about geotechnologies, GIS and Earth Sciences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmendez1997col" /> </p>
 
