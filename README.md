@@ -1,11 +1,27 @@
-<h1 align="center">Welcome to my GitHub👋, I'm Carlos Andres Mendez Vallejo</h1>
-<h3 align="center">A professional passionate about GIS, Earth Sciences, water and energy resources</h3>
 
+![Cartographic and Geodesic Engineer, Master in Geosciences and Environment](https://github.com/user-attachments/assets/a2d76b38-7ca9-477d-be08-442db762ee96)
+
+<h5 align="center">
+
+![Static Badge](https://img.shields.io/badge/GIS_software-ArcGIS_Pro-darkblue) ![Static Badge](https://img.shields.io/badge/GIS_software-QGIS-darkgreen) 
+![Static Badge](https://img.shields.io/badge/3D_Spatial_Data-Agisoft_Metashape-purple) ![Static Badge](https://img.shields.io/badge/Digital_Image_Processing-ERDAS_IMAGINE-brown) ![Static Badge](https://img.shields.io/badge/3D_Desing-Autocad-darkred) ![Static Badge](https://img.shields.io/badge/Geospatial_Software-Google_Earth_Engine-darkblue) 
+ </h5>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col" /> </p>
 
+<h1 align="center">Welcome to my GitHub👋, I'm Carlos Andres Mendez Vallejo</h1>
+<h2 align="left">Professional profile</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<h5 align="justify"> Cartographer and Geodesic Engineer, Master’s candidate in Geosciences and Environment at São Paulo State University (UNESP). Engineer with academic experience in hydric and energy resources at Laboratório de Recursos Hídricos e Isótopos Ambientais (LARHIA) and Centro de Estudos Ambientais (CEA). In these research centers, 
+I evaluated and simulated the availability of reservoir water in hydroelectric power plants in relation to Stored Energy (EAR), Natural Inflow Energy (ENA), Useful Volume and Power Generation, using machine learning and deep learning algorithms such as: Neural Network Auto Regression (NNAR), Long Short-Term Memory (LSTM) and ResCNN Neural Networks.
+Similarly, I have investigated on Colombia and Brazil extreme natural phenomena, such as droughts and dry spells, using the Standard Precipitation Index (SPI) and the Standard Precipitation-Evapotranspiration Index (SPEI), and their correlation with hydrological terms such as water scarcity, water stress, water availability and environmental risk by drought. </h5>
 
+<h5 align="justify"> In my professional experience, I have solid knowledge in the acquisition, geoprocessing and production of geospatial information obtained through various geotechnologies: satellite images, aerial photography, drone, radar, etc., which allows me to offer a broad portfolio of useful tools and solutions for spatial and temporal analysis, data management and decision-making on relevant topics such as climate change, sustainable development, monitoring of natural and water resources, renewable energies, etc. I also have skills and leadership in multidisciplinary projects involving GIS and Geosciences. </h5>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Projects and colaborations</h3>
 
 - 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
 
@@ -32,11 +48,13 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@andresmendez-ej3vv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@andresmendez-ej3vv" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Metrics on GitHub</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmendez1997col&theme=highcontrast" alt="carlosmendez1997col" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&layout=compact&theme=highcontrast)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmendez1997col&show_icons=true&theme=highcontrast&locale=en" alt="carlosmendez1997col" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmendez1997col&show_icons=true&theme=highcontrast&locale=en" alt="carlosmendez1997col" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmendez1997col&theme=highcontrast" alt="carlosmendez1997col" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
