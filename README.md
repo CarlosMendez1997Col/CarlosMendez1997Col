@@ -9,6 +9,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col" /> </p>
 
+
 <h1 align="center">Welcome to my GitHub👋, I'm Carlos Andres Mendez Vallejo</h1>
 <h2 align="left">Professional profile</h2>
 
@@ -62,6 +63,8 @@ Similarly, I have investigated on Colombia and Brazil extreme natural phenomena,
 
 - ⚡ Fun fact **I think I'm fun conversing in foreign languages, I love them.**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&title=Commits,Repositories,Stars,Experience&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlos andrés méndez vallejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos andrés méndez vallejo" height="30" width="40" /></a>
@@ -76,5 +79,6 @@ Similarly, I have investigated on Colombia and Brazil extreme natural phenomena,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmendez1997col&show_icons=true&theme=highcontrast&locale=en" alt="carlosmendez1997col" /></p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
