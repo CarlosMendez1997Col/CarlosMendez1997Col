@@ -72,10 +72,9 @@ Similarly, I have investigated on Colombia and Brazil extreme natural phenomena,
 <h3 align="left">Metrics on GitHub</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmendez1997col&theme=highcontrast" alt="carlosmendez1997col" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmendez1997col&show_icons=true&theme=highcontrast&locale=en" alt="carlosmendez1997col" /></p> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
 
