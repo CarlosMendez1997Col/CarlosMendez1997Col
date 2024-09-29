@@ -70,7 +70,7 @@
 
 - ⚡ Fun fact **I think I'm fun conversing in foreign languages, I love them.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&title=Commits,Repositories,Stars,Experience&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=carlosmendez1997col&title=Commits,Repositories,Stars,Experience,Followers&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
