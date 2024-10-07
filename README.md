@@ -54,7 +54,7 @@
 
 - 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
 
-- 🌱 I’m currently learning **Scikit-learn, opencv and seaborn**
+- 🌱 I’m currently learning **TensorFlow, Pytorch and Keras**
 
 - 👯 I’m looking to collaborate on [in projects related to earth sciences, environment, climate change using GIS](https://github.com/CarlosMendez1997Col/Climate-change-using-GIS)
 
