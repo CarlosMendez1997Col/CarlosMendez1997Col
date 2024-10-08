@@ -17,6 +17,10 @@
 
 <h5 align="justify">
 - Evaluation and simulation the availability of reservoir water in hydroelectric power plants in relation to Stored Energy (EAR), Natural Inflow Energy (ENA), Useful Volume and Power Generation, using machine learning and deep learning algorithms such as: Neural Network Auto Regression (NNAR), Long Short-Term Memory (LSTM) and ResCNN Neural Networks.
+
+ <h5 align="justify">
+- Monitoring water resources, surface water, precipitation and rainfall time series, hidrology data, water balance and groundwater using satellite imagery provided by Google Earth Engine and Javascript. 
+  
 <h5 align="justify">
 - Investigated on Colombia and Brazil extreme natural phenomena, such as droughts and dry spells, using the Standard Precipitation Index (SPI), The Standard Precipitation-Evapotranspiration Index (SPEI) and The Palmer Drought Severity Index (PDSI), identifying spatial and temporal correlations  with hydrological terms such as water scarcity, water stress, water availability and environmental risk by drought.</h5>
 
