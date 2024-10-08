@@ -13,7 +13,7 @@
 <h1 align="center">Welcome to my GitHub👋, I'm Carlos Andres Mendez Vallejo</h1>
 <h2 align="left">Professional profile</h2>
 
-<h5 align="justify"> Cadastral and Geodesic Engineer, Master’s candidate in Geosciences and Environment at São Paulo State University (UNESP). Engineer with academic and professional experience in hydric, energetic and natural resources in the Geoscience and Remote Sensing Society (GRSS-Colombia), The Laboratório de Recursos Hídricos e Isótopos Ambientais (LARHIA-Brazil) and The Centro de Estudos Ambientais (CEA-Brazil). In these research centers, I researched the following topics:</h5>
+<h5 align="justify"> Cadastral and Geodesic Engineer, MSc in Geosciences and Environment at São Paulo State University (UNESP). Engineer with academic and professional experience in hydric, energetic and natural resources in the Geoscience and Remote Sensing Society (GRSS-Colombia), The Laboratório de Recursos Hídricos e Isótopos Ambientais (LARHIA-Brazil) and The Centro de Estudos Ambientais (CEA-Brazil). In these research centers, I researched the following topics:</h5>
 
 <h5 align="justify">
 - Evaluation and simulation the availability of reservoir water in hydroelectric power plants in relation to Stored Energy (EAR), Natural Inflow Energy (ENA), Useful Volume and Power Generation, using machine learning and deep learning algorithms such as: Neural Network Auto Regression (NNAR), Long Short-Term Memory (LSTM) and ResCNN Neural Networks.
