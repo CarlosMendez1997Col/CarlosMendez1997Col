@@ -1,5 +1,4 @@
-
-![Cartographic and Geodesic Engineer, Master in Geosciences and Environment](https://github.com/user-attachments/assets/a2d76b38-7ca9-477d-be08-442db762ee96)
+![Cartographic and Geodesic Engineer, Master in Geosciences and Environment profile](https://github.com/user-attachments/assets/ab3d4601-9dd7-4d31-b27d-cd389fee057a)
 
 <h5 align="center">
 
