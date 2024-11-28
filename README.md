@@ -27,7 +27,13 @@
 <h5 align="justify">
 - Evaluation of RCP 4.5 climate projections in precipitation, temperature and potential evapotranspiration using data from the CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5 Global Climate Models (GCM), using multidimensional raster data in ArcGIS Pro and Python.
 
-<h5 align="justify"> In my professional experience, I have solid knowledge in the acquisition, geoprocessing and production of geospatial information obtained through various geotechnologies: satellite images, aerial photography, drone, radar, etc., which allows me to offer a broad portfolio of useful tools and solutions for spatial and temporal analysis, data management and decision-making on relevant topics such as climate change, sustainable development, monitoring of natural and water resources, renewable energies, etc. I also have skills and leadership in multidisciplinary projects involving GIS and Geosciences. </h5>
+<h5 align="justify">
+- Development of Cartography, WebMaps and Apps in ArcGIS, ArcGIS online and other ESRI products. </h5>
+
+<h5 align="justify"> In my professional career, I have solid experience in the acquisition and geoprocessing of geospatial data obtained using satellite imagery, aerial photography, drone, radar, etc., allowing me to offer a broad portfolio of useful solutions for spatial and temporal analysis, data management and decision-making, using Python | ArcGIS API for Python| Google Earth Engine (GEE) | Javascript | ArcGIS Maps SDK for JavaScript |R - Rstudio | HTML and C++. </h5>
+
+
+
 
 <h3 align="left">Main programming languages:</h3>
 <p align="left">
