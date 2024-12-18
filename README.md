@@ -90,7 +90,6 @@
 </p>
 
 <h3 align="left">Metrics on GitHub</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmendez1997col&theme=highcontrast" alt="carlosmendez1997col" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.2)
 
