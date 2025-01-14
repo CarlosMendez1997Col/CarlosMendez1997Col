@@ -28,6 +28,9 @@
 - Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to hydrological terms such as water scarcity, water stress and water availability. </h5>
 
 <h5 align="justify">
+- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD) y Global River Classification (GloRiC) in ArcGIS API For Python y Google Earth Engine.</h5> 
+
+<h5 align="justify">
 - Development of basic and thematic cartography, web maps and Apps in ArcGIS online using ESRI tools. </h5>
 
 <h5 align="justify"> In my professional career, I have a solid experience in the acquisition and geoprocessing of geospatial data obtained through satellite imagery, aerial photography, drone, radar, etc., which allows me to offer a wide portfolio of useful solutions for spatial and temporal analysis, data management and decision making, using Python | ArcGIS API for Python | Google Earth Engine (GEE) | Javascript | ArcGIS Maps SDK for JavaScript |R - Rstudio | HTML and C++.
