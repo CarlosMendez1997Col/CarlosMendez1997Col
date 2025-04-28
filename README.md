@@ -9,7 +9,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Geospatial_and_Remote_Sensing-Google_Earth_Engine-darkgreen) 
 
-![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub)
+![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col" /> </p>
  </h5> 
