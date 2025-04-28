@@ -32,30 +32,30 @@
 <h2 align="center">
 
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
+
 </h2>
 
 <h2 align="center">Main programming languages 👨🏽‍💻
 <p align="center">
- 
+
 ![Static Badge](https://img.shields.io/badge/Python-.py-darkblue) 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/JavaScript-.JS-yellow) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/R-.R-white) 
 </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/> 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/C++-.CPP-blue) 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/HTML-.html-orange) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="20" height="20"/> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.2)
+ 
  </h2> 
 
 <h2 align="center">Geographical Information System (GIS) 🛰🌍
@@ -63,24 +63,19 @@
 
 ![Static Badge](https://img.shields.io/badge/ArcMap-.mxd-darkgreen) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" alt="python" width="40" height="40"/> 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" alt="python" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-.ppkx-darkblue) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="40" height="40"/> 
-
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/Online-ArcGIS_Online-skyblue) 
 </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="40" height="40"/> 
-
+<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/Online-ArcGIS_Experience_Builder-blue) 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS_Experience_Builder_220.png" alt="cplusplus" width="40" height="40"/> 
-
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS_Experience_Builder_220.png" alt="cplusplus" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/Online-ArcGIS_Dashboards-darkorange) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="40" height="40"/> 
-
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/Online-ArcGIS_WebAppBuilder-white) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
 <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="40" height="40"/> 
@@ -137,9 +132,6 @@
 
 <h3 align="left">Metrics on GitHub</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.2)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmendez1997col&show_icons=true&theme=highcontrast&locale=en" alt="carlosmendez1997col" /></p> 
 
 
 <h3 align="left">Connect with me:</h3>
