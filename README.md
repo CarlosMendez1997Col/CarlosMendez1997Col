@@ -2,7 +2,7 @@
 
 ![Cartographic and Geodesic Engineer, Master in Geosciences and Environment  (1)](https://github.com/user-attachments/assets/5d443f4f-52c8-4702-9a5f-49954c4bbc4b)
 
-<h2 align="left">Professional profile👷🏽</h2>
+<h2 align="left">Professional profile👷🏽 </h2>
 
 <h5 align="justify"> Cadastral and Geodesic Engineer, MSc in Geosciences and Environment at São Paulo State University (UNESP), with professional experience in modeling, analysis and evaluation of water, energy and natural resources, my professional experience includes:</h5>
 
@@ -32,6 +32,8 @@
 <h2 align="center">
 
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col"/> </p>
 
 </h2>
 
@@ -83,18 +85,14 @@
  </h2> 
 
 
-<h5 align="center">
-
+<h2 align="center"> Application Programming Interface (API)
+<p align="center">
 
 ![Static Badge](https://img.shields.io/badge/API_for_GIS-ArcGIS_API_for_Python/ArcPy/ArcGIS_Maps_SDK_for_JavaScript/ArcGIS_Maps_SDK_for_.NET-darkred) 
 
 ![Static Badge](https://img.shields.io/badge/Geospatial_and_Remote_Sensing-Google_Earth_Engine-darkgreen) 
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col" /> </p>
- </h5> 
- 
-
+</h2>
  
 <h3 align="left">Libraries and supplementary packages:</h3>
 
