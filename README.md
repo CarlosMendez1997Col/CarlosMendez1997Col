@@ -1,21 +1,16 @@
+<h1 align="center">Welcome to my GitHub👋, I'm Carlos Mendez 🛰 </h1>
 
 ![Cartographic and Geodesic Engineer, Master in Geosciences and Environment  (1)](https://github.com/user-attachments/assets/5d443f4f-52c8-4702-9a5f-49954c4bbc4b)
 
-<h5 align="center">
+<h2 align="center"> Main performance and development indicators on GitHub 🧾 </h2>
 
-![Static Badge](https://img.shields.io/badge/GIS_software-ArcMap/ArcGIS_Pro/ArcGIS_Online/ArcGIS_Experience_Builder/ArcGIS_Dashboards/ArcGIS_WebAppBuilder-darkblue) 
-
-![Static Badge](https://img.shields.io/badge/API_for_GIS-ArcGIS_API_for_Python/ArcPy/ArcGIS_Maps_SDK_for_JavaScript/ArcGIS_Maps_SDK_for_.NET-darkred) 
-
-![Static Badge](https://img.shields.io/badge/Geospatial_and_Remote_Sensing-Google_Earth_Engine-darkgreen) 
+<h2 align="center">
 
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
+</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col" /> </p>
- </h5> 
- 
-<h3 align="left">Main programming languages:</h3>
-<p align="left">
+<h3 align="center">Main programming languages </h3>
+<p align="center">
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -25,10 +20,38 @@
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> 
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer"> 
+ </h3> 
+ 
 
 
-<h1 align="center">Welcome to my GitHub👋, I'm Carlos Andres Mendez Vallejo</h1>
+<h5 align="center">
+
+![Static Badge](https://img.shields.io/badge/GIS_software-ArcMap/ArcGIS_Pro/ArcGIS_Online/ArcGIS_Experience_Builder/ArcGIS_Dashboards/ArcGIS_WebAppBuilder-darkblue) 
+
+![Static Badge](https://img.shields.io/badge/API_for_GIS-ArcGIS_API_for_Python/ArcPy/ArcGIS_Maps_SDK_for_JavaScript/ArcGIS_Maps_SDK_for_.NET-darkred) 
+
+![Static Badge](https://img.shields.io/badge/Geospatial_and_Remote_Sensing-Google_Earth_Engine-darkgreen) 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col" /> </p>
+ </h5> 
+ 
+
+ 
+<h3 align="left">Libraries and supplementary packages:</h3>
+
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
 <h2 align="left">Professional profile</h2>
 
 <h5 align="justify"> Cadastral and Geodesic Engineer, MSc in Geosciences and Environment at São Paulo State University (UNESP), with professional experience in modeling, analysis and evaluation of water, energy and natural resources, my professional experience includes:</h5>
@@ -54,20 +77,6 @@
 <h5 align="justify"> In my professional career, I have a solid experience in the acquisition and geoprocessing of geospatial data obtained through satellite imagery, aerial photography, drone, radar, etc., which allows me to offer a wide portfolio of useful solutions for spatial and temporal analysis, data management and decision making, using Python | ArcGIS API for Python | Google Earth Engine (GEE) | Javascript | ArcGIS Maps SDK for JavaScript |R - Rstudio | HTML and C++.
  </h5>
  
-
-
-<h3 align="left">Libraries and supplementary packages:</h3>
-
-</a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
 <h3 align="left">Projects and colaborations</h3>
 
 - 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
