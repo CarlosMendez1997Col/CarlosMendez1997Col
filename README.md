@@ -9,21 +9,29 @@
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
 </h2>
 
-<h3 align="center">Main programming languages </h3>
+<h3 align="center">Main programming languages 
 <p align="center">
+ 
+![Static Badge](https://img.shields.io/badge/Python-.py-darkblue) 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+
+![Static Badge](https://img.shields.io/badge/JavaScript-.JS-yellow) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+
+![Static Badge](https://img.shields.io/badge/R-.R-white) 
 </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/> 
+
+![Static Badge](https://img.shields.io/badge/C++-.CPP-blue) 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+
+![Static Badge](https://img.shields.io/badge/HTML-.html-orange) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> 
  </h3> 
- 
-
 
 <h5 align="center">
 
