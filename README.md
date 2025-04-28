@@ -78,7 +78,7 @@
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/Online-ArcGIS_WebAppBuilder-white) 
 </a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="40" height="40"/> 
+<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="20" height="20"/> 
  
  </h2> 
 
