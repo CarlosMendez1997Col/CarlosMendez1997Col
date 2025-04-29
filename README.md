@@ -122,6 +122,9 @@
 
 </h2>
 
+<h2 align="center"> Projects and Collaborations 🤝 </h2>
+<h5 align="justify"> 
+<p align="center">
 
 - 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
 
@@ -140,10 +143,7 @@
 - 📄 Know about my experiences [http://lattes.cnpq.br/3726674814643061](http://lattes.cnpq.br/3726674814643061)
 
 - ⚡ Fun fact **I think I'm fun conversing in foreign languages, I love them.**
-
-<h3 align="left">Metrics on GitHub</h3>
-
-
+</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
