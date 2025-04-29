@@ -104,6 +104,8 @@
 <p align="center">
 
 ![Static Badge](https://img.shields.io/badge/CCS-Google_Earth_Engine-darkgray) 
+</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/> 
 </h2> 
 
 <h2 align="center"> Open source framework of Machine Learning and Deep Learning
