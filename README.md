@@ -89,13 +89,13 @@
 <p align="center">
 
 ![Static Badge](https://img.shields.io/badge/API-ArcGIS_API_for_Python-darkorange) 
-</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+</a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer">
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
-</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+</a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_.NET-purple) 
-</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+</a> <a href="https://developers.arcgis.com/net/" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/f084eb49-3d44-41ee-9daf-4e797dbd0c64" alt="HTML" width="20" height="20"/> 
 
 </h2>
