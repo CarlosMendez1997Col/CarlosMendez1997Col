@@ -103,7 +103,7 @@
 <h2 align="center"> Remote Sensing using Cloud Computing Systems (CCS) 🛰
 <p align="center">
 
-![Static Badge](https://img.shields.io/badge/CCS-Google_Earth_Engine-darkgreen) 
+![Static Badge](https://img.shields.io/badge/CCS-Google_Earth_Engine-darkgray) 
 </h2> 
 
 <h2 align="center"> Open source framework of Machine Learning and Deep Learning
