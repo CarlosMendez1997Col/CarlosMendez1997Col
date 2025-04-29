@@ -60,7 +60,7 @@
  
  </h2> 
 
-<h2 align="center">Geographical Information System (GIS) 🛰🌍
+<h2 align="center">Geographical Information System (GIS) 🌍
 <p align="center">
 
 ![Static Badge](https://img.shields.io/badge/ArcMap-.mxd-darkgreen) 
@@ -85,17 +85,30 @@
  </h2> 
 
 
-<h2 align="center"> Application Programming Interface (API)
+<h2 align="center"> Application Programming Interface (API) and Software Development Kits (SDKs) 💻
 <p align="center">
 
-![Static Badge](https://img.shields.io/badge/API_for_GIS-ArcGIS_API_for_Python/ArcPy/ArcGIS_Maps_SDK_for_JavaScript/ArcGIS_Maps_SDK_for_.NET-darkred) 
-
-![Static Badge](https://img.shields.io/badge/Geospatial_and_Remote_Sensing-Google_Earth_Engine-darkgreen) 
+![Static Badge](https://img.shields.io/badge/API-ArcGIS_API_for_Python-darkorange) 
+</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/> 
+![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
+</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+<img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/> 
+![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_.NET-purple) 
+</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
+<img src="https://github.com/user-attachments/assets/f084eb49-3d44-41ee-9daf-4e797dbd0c64" alt="HTML" width="20" height="20"/> 
 
 </h2>
- 
-<h3 align="left">Libraries and supplementary packages:</h3>
 
+<h2 align="center"> Remote Sensing using Cloud Computing Systems (CCS) 🛰
+<p align="center">
+
+![Static Badge](https://img.shields.io/badge/CCS-Google_Earth_Engine-darkgreen) 
+</h2> 
+
+<h2 align="center"> Open source framework of Machine Learning and Deep Learning
+ <p align="center">
+  
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -105,10 +118,8 @@
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+</h2>
 
-
- 
-<h3 align="left">Projects and colaborations</h3>
 
 - 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
 
