@@ -4,25 +4,41 @@
 
 <h2 align="left">Professional profile👷🏽 </h2>
 
-<h5 align="justify"> Cadastral and Geodesic Engineer, MSc in Geosciences and Environment at São Paulo State University (UNESP), with professional experience in modeling, analysis and evaluation of water, energy and natural resources, my professional experience includes:</h5>
+<h5 align="justify"> Cadastral and Geodesic Engineer, MSc in Geosciences and Environment at São Paulo State University (UNESP), with professional experience in the leadership of technical-scientific teams, offering useful solutions for modeling, forecasting, analysis and decision making in areas related with: </h5>
 
 <h5 align="justify">
+ Hydroenergy and renewable energies: 
+ 
 - Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume (Mm3), Energy Useful Volume (kWh), Energy Inputs (kWh), Flow Inputs (m3/s), 95 PSS Energy Inputs (kWh) and 95 PSS Flow Inputs (m3/s) using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN.</h5>
 
+
 <h5 align="justify">
+ Hydrometeorology:
+ 
+- Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to hydrological terms such as water scarcity, water stress and water availability. </h5>
+
+
+<h5 align="justify">
+Climate Change:
+ 
 - Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5 in ArcGIS API for Python and ArcGIS Maps SDK for JavaScript.</h5>
 
  <h5 align="justify">
-- Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing systems such as Google Earth Engine (GEE) and JavaScript language. </h5> 
+  Water Resources:
   
-<h5 align="justify">
-- Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to hydrological terms such as water scarcity, water stress and water availability. </h5>
+- Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing systems such as Google Earth Engine (GEE) and JavaScript language.
+- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD) y Global River Classification (GloRiC) in ArcGIS API For Python y Google Earth Engine.</h5>
+
+ <h5 align="justify">
+  Agrometeorology:
+  
+- Forecasting and evaluation of agrometeorological variables (precipitation, temperature, soil moisture) applying the models (AgrometShell, APSIM and DSSAT). </h5>
 
 <h5 align="justify">
-- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD) y Global River Classification (GloRiC) in ArcGIS API For Python y Google Earth Engine.</h5> 
-
-<h5 align="justify">
+ GIS and cartography:
+ 
 - Development of basic and thematic cartography, web maps and Apps in ArcGIS online using ESRI tools. </h5>
+
 
 <h5 align="justify"> In my professional career, I have a solid experience in the acquisition and geoprocessing of geospatial data obtained through satellite imagery, aerial photography, drone, radar, etc., which allows me to offer a wide portfolio of useful solutions for spatial and temporal analysis, data management and decision making, using Python | ArcGIS API for Python | Google Earth Engine (GEE) | Javascript | ArcGIS Maps SDK for JavaScript |R - Rstudio | HTML and C++.
  </h5>
