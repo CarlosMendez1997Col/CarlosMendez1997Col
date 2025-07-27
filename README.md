@@ -144,15 +144,15 @@ Climate Change:
 
 - 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
 
-- 🌱 I’m currently learning **TensorFlow, Pytorch and Keras**
+- 🌱 I’m currently learning ** Frameworks of IA (TensorFlow-Keras), Amazon Web Services (AWS) and BigQuery**
 
-- 👯 I’m looking to collaborate on [in projects related to earth sciences, environment, climate change using GIS](https://github.com/CarlosMendez1997Col/Climate-change-using-GIS)
+- 👯 I’m looking to collaborate on [in professional projects of modeling and forecasting hydrometeorology, climate change, water resources and agrometeorology)
 
 - 🤝 I’m looking for help with **optimization of machine learning and big data algorithms.**
 
 - 📝 I regularly write articles on [https://www.researchgate.net/profile/Carlos-Mendez-Vallejo](https://www.researchgate.net/profile/Carlos-Mendez-Vallejo)
 
-- 💬 Ask me about **Climate change models**
+- 💬 Ask me about **GIS systems, Geosciences and Artificial Intelligente**
 
 - 📫 How to reach me **carlos.mendez@unesp.br**
 
