@@ -110,9 +110,6 @@ Climate Change:
 ![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
 </a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_.NET-purple) 
-</a> <a href="https://developers.arcgis.com/net/" target="_blank" rel="noreferrer">
-<img src="https://github.com/user-attachments/assets/f084eb49-3d44-41ee-9daf-4e797dbd0c64" alt="HTML" width="20" height="20"/> 
 
 </h2>
 
