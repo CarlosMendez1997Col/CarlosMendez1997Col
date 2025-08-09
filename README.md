@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub👋, I'm Carlos Mendez 👨🏽‍💻 </h1>
 
-![Cartographic and Geodesic Engineer, Master in Geosciences and Environment  (1)](https://github.com/user-attachments/assets/5d443f4f-52c8-4702-9a5f-49954c4bbc4b)
+![Cartographic and Geodesic Engineer, Master in Geosciences and Environment  (1)](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/98adc674246619f69a4d0f1914e3df725984da35/OfficialLandscape.png)
 
 <h2 align="left">Professional profile👷🏽 </h2>
 
