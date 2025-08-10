@@ -17,7 +17,6 @@
  
 - Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to hydrological terms such as water scarcity, water stress and water availability. </h5>
 
-
 <h5 align="justify">
 Climate Change:
  
@@ -42,6 +41,9 @@ Climate Change:
 
 <h5 align="justify"> In my professional career, I have a solid experience in the acquisition and geoprocessing of geospatial data obtained through satellite imagery, aerial photography, drone, radar, etc., which allows me to offer a wide portfolio of useful solutions for spatial and temporal analysis, data management and decision making, using Python | ArcGIS API for Python | Google Earth Engine (GEE) | Javascript | ArcGIS Maps SDK for JavaScript |R - Rstudio | HTML and C++.
  </h5>
+
+ ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
+
 
 <h2 align="center"> Main performance and development indicators on GitHub 🧾 </h2>
 
