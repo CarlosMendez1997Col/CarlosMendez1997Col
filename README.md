@@ -85,7 +85,6 @@ Climate Change:
 
 ![Static Badge](https://img.shields.io/badge/ArcMap-.mxd-darkgreen) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png" alt="python" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-.ppkx-darkblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="20" height="20"/> 
