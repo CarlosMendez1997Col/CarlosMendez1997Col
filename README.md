@@ -36,7 +36,7 @@ Climate Change:
 - Forecasting and evaluation of agrometeorological variables (precipitation, temperature, soil moisture) applying the models (AgrometShell, APSIM and DSSAT). </h5>
 
 <h5 align="justify">
- GIS and cartography:
+ GIS and WebMaps/Applications:
  
 - Development of basic and thematic cartography, web maps and Apps in ArcGIS online using ESRI tools. </h5>
 
