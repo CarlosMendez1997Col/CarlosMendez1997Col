@@ -28,7 +28,7 @@ Climate Change:
   Water Resources:
   
 - Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing systems such as Google Earth Engine (GEE) and JavaScript language.
-- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD) y Global River Classification (GloRiC) in ArcGIS API For Python y Google Earth Engine.</h5>
+- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD) y Global River Classification (GloRiC) in ArcGIS API For Python and Google Earth Engine.</h5>
 
  <h5 align="justify">
   Agrometeorology:
