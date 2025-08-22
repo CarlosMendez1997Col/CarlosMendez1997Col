@@ -11,7 +11,7 @@
  
 - Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume (Mm3), Energy Useful Volume (kWh), Energy Inputs (kWh), Flow Inputs (m3/s), 95 PSS Energy Inputs (kWh) and 95 PSS Flow Inputs (m3/s) using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN.</h5>
 
-![bannerhydro](https://drive.google.com/file/d/1yawoqIzDjrWo0Qc6W1-cZQHXWrxUPWXa/view?usp=sharing)
+![bannerhydro](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/de9fa95f1a529939c97eaaa3c24ace4afc1a0f2c/1.%20Attachments/Banner%20Hydropower.gif)
 
 <h5 align="justify">
  Hydrometeorology:
