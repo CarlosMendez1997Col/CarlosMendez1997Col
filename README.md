@@ -49,7 +49,7 @@ Climate Change:
 
 <h2 align="center">
 
-![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,LongTimeUser,NewUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
+![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,NewAccount,Commits,Followers,Stars,Repositories&theme=darkhub&column=8)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col"/> </p>
 
@@ -74,8 +74,9 @@ Climate Change:
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="20" height="20"/> 
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.1&count_weight=0.1)
- 
  </h2> 
 
 <h2 align="center">Geographical Information System (GIS) 🌍
