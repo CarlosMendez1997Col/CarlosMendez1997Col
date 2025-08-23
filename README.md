@@ -165,6 +165,6 @@ Climate Change:
 <a href="https://www.youtube.com/@andresmendez-ej3vv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@AndresMendez-ej3vv" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/output/github-contribution-grid-snake.svg)
 
