@@ -36,11 +36,7 @@ Climate Change:
 <h5 align="justify">
  GIS and WebMaps/Applications:
  
-- Development of basic and thematic cartography, web maps and Apps in ArcGIS online using ESRI tools. </h5>
-
-
-<h5 align="justify"> In my professional career, I have a solid experience in the acquisition and geoprocessing of geospatial data obtained through satellite imagery, aerial photography, drone, radar, etc., which allows me to offer a wide portfolio of useful solutions for spatial and temporal analysis, data management and decision making, using Python | ArcGIS API for Python | Google Earth Engine (GEE) | Javascript | ArcGIS Maps SDK for JavaScript |R - Rstudio | HTML and C++.
- </h5>
+- Development WebMaps/Applications using satellite imagery, aerial photography, drone, radar and geospatial data. </h5>
 
  ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
 
