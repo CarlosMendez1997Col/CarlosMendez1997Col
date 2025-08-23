@@ -44,12 +44,11 @@ Climate Change:
 
  ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
 
-
 <h2 align="center"> Main performance and development indicators on GitHub 🧾 </h2>
 
 <h2 align="center">
 
-![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=8)
+![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col"/> </p>
 
