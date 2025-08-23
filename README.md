@@ -164,3 +164,11 @@ Climate Change:
 <a href="https://www.linkedin.com/in/carlos-andres-mendez-vallejo-oficialpage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos andrés méndez vallejo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@andresmendez-ej3vv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@AndresMendez-ej3vv" height="30" width="40" /></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosMendez1997Col/CarlosMendez1997Col/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosMendez1997Col/CarlosMendez1997Col/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosMendez1997Col/CarlosMendez1997Col/output/github-contribution-grid-snake.svg">
+</picture>        
+
+
