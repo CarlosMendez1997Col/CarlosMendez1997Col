@@ -20,13 +20,13 @@
 <h5 align="justify">
 Climate Change:
  
-- Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5 in ArcGIS API for Python and ArcGIS Maps SDK for JavaScript.</h5>
+- Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5.</h5>
 
  <h5 align="justify">
   Water Resources:
   
-- Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing Systems-Google Earth Engine (GEE).
-- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD) y Global River Classification (GloRiC) in Google Earth Engine.</h5>
+- Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing Systems like as Google Earth Engine (GEE).
+- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD), Global River Classification (GloRiC).</h5>
 
  <h5 align="justify">
   Agrometeorology:
