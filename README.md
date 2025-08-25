@@ -65,24 +65,25 @@ Climate Change:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Python-darkblue) 
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow) 
+![Static Badge](https://img.shields.io/badge/HTML-orange) 
+![Static Badge](https://img.shields.io/badge/R-grey) 
+![Static Badge](https://img.shields.io/badge/C++-blue) 
+![Static Badge](https://img.shields.io/badge/SQL-darkblue) 
+![Static Badge](https://img.shields.io/badge/Ruby-darkred) 
+
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
-![Static Badge](https://img.shields.io/badge/HTML-orange) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
-![Static Badge](https://img.shields.io/badge/R-grey) 
 </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
-![Static Badge](https://img.shields.io/badge/C++-blue) 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
-![Static Badge](https://img.shields.io/badge/SQL-darkblue) 
 </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e0e65767-d5af-4816-8b93-83034e2adb2d" />
-![Static Badge](https://img.shields.io/badge/Ruby-darkred) 
 </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
 
@@ -95,21 +96,23 @@ Climate Change:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
+![Static Badge](https://img.shields.io/badge/ArcMap-grey) 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-darkblue) 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Online-royalblue) 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Dashboards-darkorange) 
+![Static Badge](https://img.shields.io/badge/ArcGIS_WebAppBuilder-skyblue) 
+
+
 </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcMap-grey) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" alt="R" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-darkblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_Online-royalblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> 
 <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_Dashboards-darkorange) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer">
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_WebAppBuilder-skyblue) 
 </a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
 <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="40" height="40"/> 
  
@@ -117,12 +120,13 @@ Climate Change:
  
 <h2 align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_API_for_Python-darkorange) 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
+
 </a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer">
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
 </a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
 <img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="40" height="40"/> 
 
@@ -132,22 +136,29 @@ Climate Change:
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+(CCS)+%F0%9F%9B%B0)](https://git.io/typing-svg)
 
-![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-white) 
+![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-grey)
+
 </a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
 <img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="40" height="40"/> 
 </h2> 
 
-<h2 align="center"> Open source framework of Machine Learning and Deep Learning
- <p align="center">
-  
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&lines=Artificial+Intelligence+Frameworks+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+![Static Badge](https://img.shields.io/badge/OpenCV-darkgreen)
+![Static Badge](https://img.shields.io/badge/Pytorch-darkorange)
+![Static Badge](https://img.shields.io/badge/ScikitLearn-blue)
+![Static Badge](https://img.shields.io/badge/TensorFlow-yellow)
+![Static Badge](https://img.shields.io/badge/Keras-darkred)
+![Static Badge](https://img.shields.io/badge/GeoAI-esmerald)
+
+</a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+</a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a><a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+</a><a href="https://opengeoai.org" target="_blank" rel="noreferrer"><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="geoai" width="40" height="40"/>
 
 </h2>
 
