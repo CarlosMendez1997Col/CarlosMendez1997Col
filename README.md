@@ -62,25 +62,29 @@ Climate Change:
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
-
-<p align="center">
-
-![Static Badge](https://img.shields.io/badge/Python-.py-darkblue) 
+![Static Badge](https://img.shields.io/badge/.ipynb-darkblue) 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/JavaScript-.JS-yellow) 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
+![Static Badge](https://img.shields.io/badge/.js-yellow) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/R-.R-white) 
-</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/C++-.CPP-blue) 
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/HTML-.html-orange) 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
+![Static Badge](https://img.shields.io/badge/.html-orange) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="20" height="20"/> 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
+![Static Badge](https://img.shields.io/badge/.R-grey) 
+</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
+![Static Badge](https://img.shields.io/badge/.cpp-blue) 
+</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
+![Static Badge](https://img.shields.io/badge/.sql-darkblue) 
+</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e0e65767-d5af-4816-8b93-83034e2adb2d" />
+![Static Badge](https://img.shields.io/badge/.rb-darkred) 
+</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
+<img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.9&langs_count=8)
  
