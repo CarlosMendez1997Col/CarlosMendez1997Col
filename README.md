@@ -93,8 +93,6 @@ Climate Change:
 <h2 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
- 
-<p align="center">
 
 ![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
 </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> 
@@ -116,29 +114,27 @@ Climate Change:
 <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="40" height="40"/> 
  
  </h2> 
-
-
+ 
 <h2 align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
- 
-<p align="center">
 
-![Static Badge](https://img.shields.io/badge/API-ArcGIS_API_for_Python-darkorange) 
+![Static Badge](https://img.shields.io/badge/ArcGIS_API_for_Python-darkorange) 
 </a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer">
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/SDK-ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
 </a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
-<img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/> 
+<img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="40" height="40"/> 
 
 </h2>
 
-<h2 align="center"> Remote Sensing using Cloud Computing Systems (CCS) 🛰
-<p align="center">
+<h2 align="center"> 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+(CCS)+%F0%9F%9B%B0)](https://git.io/typing-svg)
 
-![Static Badge](https://img.shields.io/badge/CCS-Google_Earth_Engine-darkgray) 
+![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-white) 
 </a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
-<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/> 
+<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="40" height="40"/> 
 </h2> 
 
 <h2 align="center"> Open source framework of Machine Learning and Deep Learning
