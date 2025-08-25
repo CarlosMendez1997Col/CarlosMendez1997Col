@@ -69,9 +69,8 @@ Climate Change:
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="20" height="20"/> 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.1&count_weight=0.1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.9&langs_count=8&layout=compact)
+ 
  </h2> 
 
 <h2 align="center">Geographical Information System (GIS) 🌍
