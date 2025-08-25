@@ -96,7 +96,10 @@ Climate Change:
  
 <p align="center">
 
-![Static Badge](https://img.shields.io/badge/ArcMap-darkgreen) 
+![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
+</a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcMap-grey) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" alt="R" width="40" height="40"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-darkblue) 
@@ -105,9 +108,6 @@ Climate Change:
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Online-royalblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> 
 <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="40" height="40"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_Experience_Builder-blue) 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview" target="_blank" rel="noreferrer"> 
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS_Experience_Builder_220.png" alt="cplusplus" width="40" height="40"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Dashboards-darkorange) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer">
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="40" height="40"/> 
