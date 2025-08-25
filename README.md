@@ -62,59 +62,66 @@ Climate Change:
 
 <h2 align="center">
 
-![Static Badge](https://img.shields.io/badge/.ipynb-darkblue) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
+
+![Static Badge](https://img.shields.io/badge/Python-darkblue) 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
-![Static Badge](https://img.shields.io/badge/.js-yellow) 
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
-![Static Badge](https://img.shields.io/badge/.html-orange) 
+![Static Badge](https://img.shields.io/badge/HTML-orange) 
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
-![Static Badge](https://img.shields.io/badge/.R-grey) 
+![Static Badge](https://img.shields.io/badge/R-grey) 
 </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
-![Static Badge](https://img.shields.io/badge/.cpp-blue) 
+![Static Badge](https://img.shields.io/badge/C++-blue) 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
-![Static Badge](https://img.shields.io/badge/.sql-darkblue) 
+![Static Badge](https://img.shields.io/badge/SQL-darkblue) 
 </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e0e65767-d5af-4816-8b93-83034e2adb2d" />
-![Static Badge](https://img.shields.io/badge/.rb-darkred) 
+![Static Badge](https://img.shields.io/badge/Ruby-darkred) 
 </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.9&langs_count=8)
  
  </h2> 
 
-<h2 align="center">Geographical Information System (GIS) 🌍
+<h2 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
+ 
 <p align="center">
 
-![Static Badge](https://img.shields.io/badge/ArcMap-.mxd-darkgreen) 
+![Static Badge](https://img.shields.io/badge/ArcMap-darkgreen) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-.ppkx-darkblue) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" alt="R" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-darkblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/Online-ArcGIS_Online-skyblue) 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Online-royalblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> 
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/Online-ArcGIS_Experience_Builder-blue) 
+<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Experience_Builder-blue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview" target="_blank" rel="noreferrer"> 
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS_Experience_Builder_220.png" alt="cplusplus" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/Online-ArcGIS_Dashboards-darkorange) 
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS_Experience_Builder_220.png" alt="cplusplus" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcGIS_Dashboards-darkorange) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer">
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="20" height="20"/> 
-![Static Badge](https://img.shields.io/badge/Online-ArcGIS_WebAppBuilder-white) 
+<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="40" height="40"/> 
+![Static Badge](https://img.shields.io/badge/ArcGIS_WebAppBuilder-skyblue) 
 </a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="20" height="20"/> 
+<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="40" height="40"/> 
  
  </h2> 
 
 
-<h2 align="center"> Application Programming Interface (API) and Software Development Kits (SDKs) 💻
+<h2 align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
+ 
 <p align="center">
 
 ![Static Badge](https://img.shields.io/badge/API-ArcGIS_API_for_Python-darkorange) 
