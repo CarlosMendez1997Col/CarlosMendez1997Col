@@ -40,9 +40,15 @@ Climate Change:
 
  ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
 
-<h2 align="center"> Main performance and development indicators on GitHub 🧾 </h2>
+
+<h2 align="center"> 
+ 
+
+</h2>
 
 <h2 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=5000&color=DBECF7&random=true&width=435&lines=Performance%2FStats+indicators+on+GitHub+%F0%9F%A7%BE)](https://git.io/typing-svg)
 
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
 
@@ -50,7 +56,10 @@ Climate Change:
 
 </h2>
 
-<h2 align="center">Main programming languages 👨🏽‍💻
+<h2 align="center">
+
+[![Typing SVG](https://typewriter-orpin.vercel.app/typewriter/?font=Fira+Code&pause=3000&color=F7F7F7&center=false&width=435&lines=Main+programming+languages+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://github.com/DannyAlas)
+
 <p align="center">
 
 ![Static Badge](https://img.shields.io/badge/Python-.py-darkblue) 
