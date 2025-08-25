@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to my GitHub👋, I'm Carlos Mendez 👨🏽‍💻 </h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Welcome+to+my+GitHub%F0%9F%91%8B;I'm+Carlos+Mendez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+ 
+</h1>
 
 ![PrincipalBanner](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/96313f5c42b4bce5250fd2dd197437486bca842e/1.%20Attachments/PrincipalBanner.gif)
 
@@ -47,8 +51,8 @@ Climate Change:
 </h2>
 
 <h2 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=5000&color=DBECF7&random=true&width=435&lines=Performance%2FStats+indicators+on+GitHub+%F0%9F%A7%BE)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
 
@@ -58,7 +62,7 @@ Climate Change:
 
 <h2 align="center">
 
-[![Typing SVG](https://typewriter-orpin.vercel.app/typewriter/?font=Fira+Code&pause=3000&color=F7F7F7&center=false&width=435&lines=Main+programming+languages+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://github.com/DannyAlas)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
 
 <p align="center">
 
