@@ -89,7 +89,7 @@ Climate Change:
 </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
 <img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.2&count_weight=0.9&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.1&count_weight=0.9&langs_count=8)
  
  </h2> 
 
