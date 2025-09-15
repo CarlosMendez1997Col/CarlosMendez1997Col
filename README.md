@@ -8,7 +8,7 @@
 
 <h2 align="left">Professional profile👷🏽 </h2>
 
-<h5 align="justify"> Cadastral and Geodesic Engineer, MSc in Geosciences and Environment at São Paulo State University (UNESP), with professional experience in the leadership of technical-scientific teams, offering useful solutions for modeling, forecasting, analysis and decision making in areas related with: </h5>
+<h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in managing technical and scientific teams, offering useful solutions for modeling, forecasting, analysis, and decision-making in areas related to:</h5>
 
 <h5 align="justify">
  Hydroenergy and renewable energies: 
