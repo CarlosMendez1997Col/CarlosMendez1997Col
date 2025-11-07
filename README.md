@@ -54,7 +54,7 @@ Climate Change:
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories&theme=darkhub&column=7)
+![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories,PullRequest&theme=darkhub&column=8)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col"/> </p>
 
