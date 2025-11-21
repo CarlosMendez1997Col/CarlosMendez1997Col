@@ -4,7 +4,8 @@
  
 </h1>
 
-![PrincipalBanner](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/96313f5c42b4bce5250fd2dd197437486bca842e/1.%20Attachments/PrincipalBanner.gif)
+![Banner2025](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/f6bd33dea32ce1caa51dc93449213edd972fd5f2/1.%20Attachments/Banner2025.gif)
+
 
 <h2 align="left">Professional profile👷🏽 </h2>
 
