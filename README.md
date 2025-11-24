@@ -76,20 +76,13 @@ Climate Change:
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
 </a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img width="25" height="25" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 ![Static Badge](https://img.shields.io/badge/SQL-darkblue)
-</a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e0e65767-d5af-4816-8b93-83034e2adb2" />
-
-
-
+</a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/6420a474bd120bc87180d20fb634e973e804007f/1.%20Attachments/database.png" />
 ![Static Badge](https://img.shields.io/badge/R-grey) 
-
+</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
 ![Static Badge](https://img.shields.io/badge/C++-blue) 
-
-
+</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
 ![Static Badge](https://img.shields.io/badge/Ruby-darkred) 
-
-</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
-</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
+</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.05&count_weight=0.2&langs_count=10)
  
