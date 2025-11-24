@@ -67,30 +67,31 @@ Climate Change:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
 
-![Static Badge](https://img.shields.io/badge/Python-darkblue) 
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow) 
-![Static Badge](https://img.shields.io/badge/HTML-orange) 
+![Static Badge](https://img.shields.io/badge/Python-darkblue)
+</a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+</a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
+![Static Badge](https://img.shields.io/badge/HTML-orange)
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
+![Static Badge](https://img.shields.io/badge/CSS-blue)
+</a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img width="25" height="25" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+![Static Badge](https://img.shields.io/badge/SQL-darkblue)
+</a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e0e65767-d5af-4816-8b93-83034e2adb2" />
+
+
+
 ![Static Badge](https://img.shields.io/badge/R-grey) 
+
 ![Static Badge](https://img.shields.io/badge/C++-blue) 
-![Static Badge](https://img.shields.io/badge/SQL-darkblue) 
+
+
 ![Static Badge](https://img.shields.io/badge/Ruby-darkred) 
 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
-</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
-</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e0e65767-d5af-4816-8b93-83034e2adb2d" />
-</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
-<img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
+</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
+</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
+</a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.1&count_weight=0.9&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.05&count_weight=0.2&langs_count=10)
  
  </h2> 
 
