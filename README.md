@@ -93,25 +93,20 @@ Climate Change:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
+</a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcMap-grey) 
+</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" alt="R" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-darkblue) 
+</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Online-royalblue) 
+</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="20" height="20"/>
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Dashboards-darkorange) 
+</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_WebAppBuilder-skyblue) 
+</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer"><img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="20" height="20"/> 
 
 
-</a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="40" height="40"/> 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" alt="R" width="40" height="40"/> 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="40" height="40"/> 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> 
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="40" height="40"/> 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer">
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-dashboards.png" alt="HTML" width="40" height="40"/> 
-</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="40" height="40"/> 
+ 
  
  </h2> 
  
