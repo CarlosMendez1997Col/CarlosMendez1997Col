@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Welcome+to+my+GitHub%F0%9F%91%8B;I'm+Carlos+Mendez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Welcome+to+my+GitHub%F0%9F%91%8B;I'm+Carlos+Mendez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
  
 </h1>
 
@@ -53,7 +53,7 @@ Climate Change:
 
 <h2 align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 ![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories,PullRequest&theme=darkhub&column=8)
 
@@ -65,7 +65,7 @@ Climate Change:
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Python-darkblue)
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
@@ -90,7 +90,7 @@ Climate Change:
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
 </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/> 
@@ -112,7 +112,7 @@ Climate Change:
  
 <h2 align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_API_for_Python-darkorange) 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
@@ -126,7 +126,7 @@ Climate Change:
 
 <h2 align="center"> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+(CCS)+%F0%9F%9B%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+(CCS)+%F0%9F%9B%B0)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-grey)
 
@@ -136,7 +136,7 @@ Climate Change:
 
 <h2 align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F1F4F7&center=true&vCenter=true&multiline=true&width=650&lines=Artificial+Intelligence+Frameworks+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&lines=Artificial+Intelligence+Frameworks+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/OpenCV-darkgreen)
 ![Static Badge](https://img.shields.io/badge/Pytorch-darkorange)
