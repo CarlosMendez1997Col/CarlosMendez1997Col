@@ -115,12 +115,9 @@ Climate Change:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_API_for_Python-darkorange) 
+</a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
-
-</a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer">
-<img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="40" height="40"/> 
-</a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
-<img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="40" height="40"/> 
+</a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/> 
 
 </h2>
 
@@ -129,9 +126,11 @@ Climate Change:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+(CCS)+%F0%9F%9B%B0)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-grey)
+</a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/> 
+![Static Badge](https://img.shields.io/badge/Amazon_Web_Services_(AWS)-FF9900)
+</a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="HTML" width="20" height="20"/> 
 
-</a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
-<img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="40" height="40"/> 
+
 </h2> 
 
 <h2 align="center">
