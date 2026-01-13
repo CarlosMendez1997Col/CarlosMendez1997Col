@@ -97,7 +97,7 @@ Climate Change:
 ![Static Badge](https://img.shields.io/badge/ArcMap-grey) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-desktop/resources" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" alt="R" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Pro-darkblue) 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Arcgis_Pro_logo.svg/800px-Arcgis_Pro_logo.svg.png" alt="javascript" width="20" height="20"/> 
+</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Online-royalblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img src="https://www.aeroterra.com/content/dam/esrisites/en-us/arcgis/products/arcgis-online/assets/arcgis-online-product-logo-icon.png" alt="R" width="20" height="20"/>
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Dashboards-darkorange) 
