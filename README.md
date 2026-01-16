@@ -163,13 +163,7 @@ Climate Change:
 
 - 🤝 I’m looking for help with **optimization of machine learning and big data algorithms.**
 
-- 📝 I regularly write articles on [https://www.researchgate.net/profile/Carlos-Mendez-Vallejo](https://www.researchgate.net/profile/Carlos-Mendez-Vallejo)
-
-- 💬 Ask me about **GIS systems, Geosciences and Artificial Intelligente**
-
-- 📫 How to reach me **carlos.mendez@unesp.br**
-
-- 📄 Know about my experiences [http://lattes.cnpq.br/3726674814643061](http://lattes.cnpq.br/3726674814643061)
+- 💬 Ask me about **GIS systems, Geosciences and Artificial Intelligence**
 
 - ⚡ Fun fact **I think I'm fun conversing in foreign languages, I love them.**
 </h5>
