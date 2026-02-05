@@ -33,12 +33,6 @@ Climate Change:
 - Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing Systems like as Google Earth Engine (GEE).
 - Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD), Global River Classification (GloRiC).</h5>
 
- <h5 align="justify">
-  Agrometeorology:
-  
-- Forecasting and evaluation of agrometeorological variables (precipitation, temperature, soil moisture) applying the models (AgrometShell, APSIM and DSSAT). </h5>
-
-<h5 align="justify">
  GIS and WebMaps/Applications:
  
 - Development WebMaps/Applications using satellite imagery, aerial photography, drone and radar data provided by NASA, Copernicus and NOAA centers. </h5>
