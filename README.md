@@ -1,10 +1,10 @@
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Welcome+to+my+GitHub%F0%9F%91%8B;I'm+Carlos+Mendez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+ ![Banner2026](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/main/1.%20Attachments/Banner_2026_5s.gif)
  
 </h1>
-
-![Banner2025](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/f6bd33dea32ce1caa51dc93449213edd972fd5f2/1.%20Attachments/Banner2025.gif)
 
 <h2 align="left">Professional profile👷🏽 </h2>
 
