@@ -2,93 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Welcome+to+my+GitHub%F0%9F%91%8B;I'm+Carlos+Mendez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
- ![Banner2026](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/main/1.%20Attachments/Banner_2026_5s.gif)
+![Banner2026](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/main/1.%20Attachments/Banner_2026_5s.gif)
  
 </h1>
-
-<h2 align="left">Professional profile👷🏽 </h2>
-
-<h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in the development of tools for modeling, forecasting, analysis, and decision-making in projects related to water resource monitoring and management, hydroelectric and renewable energy, climate change scenarios, and artificial intelligence.</h5>
-
-<h5 align="justify">
-
-Geospatial Artificial Intelligence (GeoAI):
-<ol>
-  <li>Development of geoportals for the visualization and simulation of digital twins in real-time</li>
-</ol>
-
-<h5 align="justify">
- 
-Water Resources Management:
- 
-<ol>
-  <li>Monitoring and control of water resources, surface and groundwater, water balance using satellite images (GPM, FLDAS, MODIS, Sentinel)</li>
-  <li>Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC</li>
-</ol>
-
-<h5 align="justify">
- 
-Climate Change:
-
-<ol>
-  <li>Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5)</li>
-</ol>
-
-<h5 align="justify">
- 
-Hydroenergy and renewable energies: 
-
-<ol>
-  <li>Forecasts of stored levels in hydroelectric power plants: Daily Useful Volume, Daily Useful Energy Volume, Energy Contributions and Flow Rate</li>
-</ol>
- 
-<h5 align="justify">
- 
-Hydrometeorology:
-
-<ol>
-  <li>Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI)</li>
-</ol>
-
-Programming and Development:
--Python, JavaScript, HTML, CSS, R, C++, SQL.
-
-Geographic Information Systems (GIS)
-
--ArcGIS, ArcGIS API for Python, ArcGIS SD Maps for JavaScript, QGIS
-
-Web Geospatial Services  
-
--OGC, GeoServer, MapServer.
-
-Web Dev Apps Frameworks
-
--Angular, React, Vue.
-
-Artificial Intelligence Frameworks
-
--Scikit-Learn, TensorFlow, Keras.
-
--Cloud Computing Platforms and Services
-
-Amazon Web Services, Microsoft Azure, Google Cloud Computing.
-
-<h2 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-
-![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories,PullRequest&theme=darkhub&column=8)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col"/> </p>
-
-[![committers.top badge](https://user-badge.committers.top/colombia/CarlosMendez1997Col.svg)](https://user-badge.committers.top/colombia/CarlosMendez1997Col)
-
-</h2>
 
 <h2 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg) 
-
 
 ![Static Badge](https://img.shields.io/badge/Python-darkblue)
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/>
@@ -173,6 +93,61 @@ Amazon Web Services, Microsoft Azure, Google Cloud Computing.
 </a><a href="https://opengeoai.org" target="_blank" rel="noreferrer"><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="geoai" width="40" height="40"/>
 </h2>
 
+<h2 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+
+![](https://github-trophies.vercel.app/?username=carlosmendez1997col&title=MultipleLang,AchieveSuperRank,LongTimeUser,Commits,Followers,Stars,Repositories,PullRequest&theme=darkhub&column=8)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlosmendez1997col&label=Profile%20views&color=100eb4&style=flat" alt="carlosmendez1997col"/> </p>
+
+[![committers.top badge](https://user-badge.committers.top/colombia/CarlosMendez1997Col.svg)](https://user-badge.committers.top/colombia/CarlosMendez1997Col)
+
+</h2>
+
+<h2 align="left">About MSc Carlos Mendez👷🏽 </h2>
+
+<h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in the development of tools for modeling, forecasting, analysis, and decision-making in projects related to water resource monitoring and management, hydroelectric and renewable energy, climate change scenarios, and artificial intelligence.</h5>
+
+<h5 align="justify">
+
+Geospatial Artificial Intelligence (GeoAI):
+<ol>
+  <li>Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+</ol>
+
+<h5 align="justify">
+ 
+Water Resources Management:
+ 
+<ol>
+  <li>Monitoring and control of water resources, surface and groundwater, water balance using satellite images (GPM, FLDAS, MODIS, Sentinel)</li>
+  <li>Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC</li>
+</ol>
+
+<h5 align="justify">
+ 
+Climate Change:
+
+<ol>
+  <li>Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5)</li>
+</ol>
+
+<h5 align="justify">
+ 
+Hydroenergy and renewable energies: 
+
+<ol>
+  <li>Forecasts of stored levels in hydroelectric power plants: Daily Useful Volume, Daily Useful Energy Volume, Energy Contributions and Flow Rate</li>
+</ol>
+ 
+<h5 align="justify">
+ 
+Hydrometeorology:
+
+<ol>
+  <li>Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI)</li>
+</ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
