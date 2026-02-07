@@ -6,37 +6,36 @@
 
 ![Banner2025](https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/f6bd33dea32ce1caa51dc93449213edd972fd5f2/1.%20Attachments/Banner2025.gif)
 
-
 <h2 align="left">Professional profile👷🏽 </h2>
 
-<h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in managing technical and scientific teams, offering useful solutions for modeling, forecasting, analysis, and decision-making in areas related to:</h5>
+<h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in the development of tools for modeling, forecasting, analysis, and decision-making in projects related to water resource monitoring and management, hydroelectric and renewable energy, climate change scenarios, and artificial intelligence.</h5>
 
 <h5 align="justify">
- Hydroenergy and renewable energies: 
- 
-- Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume (Mm3), Energy Useful Volume (kWh), Energy Inputs (kWh), Flow Inputs (m3/s), 95 PSS Energy Inputs (kWh) and 95 PSS Flow Inputs (m3/s) using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN.</h5>
+
+Geospatial Artificial Intelligence (GeoAI):
+
+-Development of geoportals for the visualization and simulation of digital twins in real-time.</h5>
 
 <h5 align="justify">
- Hydrometeorology:
+Water Resources Management:
  
-- Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to hydrological terms such as water scarcity, water stress and water availability. </h5>
-
+-Monitoring and control of water resources, surface and groundwater, water balance using satellite images (GPM, FLDAS, MODIS, Sentinel).
+-Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC.</h5>
 
 <h5 align="justify">
 Climate Change:
  
-- Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5.</h5>
+-Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5).</h5>
 
- <h5 align="justify">
-  Water Resources:
-  
-- Monitoring and control of water resources, surface and groundwater, water balance using satellite images in Cloud-Computing Systems like as Google Earth Engine (GEE).
-- Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, Global Lakes and Wetlands Database (GLWD), Global River Classification (GloRiC).</h5>
-
- GIS and WebMaps/Applications:
+<h5 align="justify">
+Hydroenergy and renewable energies: 
  
-- Development WebMaps/Applications using satellite imagery, aerial photography, drone and radar data provided by NASA, Copernicus and NOAA centers. </h5>
+-Forecasts of stored levels in hydroelectric power plants: Daily Useful Volume, Daily Useful Energy Volume, Energy Contributions and Flow Rate.</h5>
 
+<h5 align="justify">
+Hydrometeorology:
+ 
+-Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI).</h5>
  ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
 
 
