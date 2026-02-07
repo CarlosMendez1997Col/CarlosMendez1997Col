@@ -38,7 +38,6 @@ Hydrometeorology:
 -Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI).</h5>
  ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
 
-
 <h2 align="center"> 
  
 
