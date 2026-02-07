@@ -13,29 +13,43 @@
 <h5 align="justify">
 
 Geospatial Artificial Intelligence (GeoAI):
-
--Development of geoportals for the visualization and simulation of digital twins in real-time.</h5>
+<ol>
+  <li>Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+</ol>
 
 <h5 align="justify">
+ 
 Water Resources Management:
  
--Monitoring and control of water resources, surface and groundwater, water balance using satellite images (GPM, FLDAS, MODIS, Sentinel).
--Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC.</h5>
+<ol>
+  <li>Monitoring and control of water resources, surface and groundwater, water balance using satellite images (GPM, FLDAS, MODIS, Sentinel)</li>
+  <li>Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC</li>
+</ol>
 
 <h5 align="justify">
+ 
 Climate Change:
- 
--Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5).</h5>
+
+<ol>
+  <li>Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5)</li>
+</ol>
 
 <h5 align="justify">
+ 
 Hydroenergy and renewable energies: 
- 
--Forecasts of stored levels in hydroelectric power plants: Daily Useful Volume, Daily Useful Energy Volume, Energy Contributions and Flow Rate.</h5>
 
-<h5 align="justify">
-Hydrometeorology:
+<ol>
+  <li>Forecasts of stored levels in hydroelectric power plants: Daily Useful Volume, Daily Useful Energy Volume, Energy Contributions and Flow Rate</li>
+</ol>
  
--Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI).</h5>
+<h5 align="justify">
+ 
+Hydrometeorology:
+
+<ol>
+  <li>Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI)</li>
+</ol>
+
  ![Animations_master](https://github.com/CarlosMendez1997Col/PortfolioDev.io/blob/c403b77c1e0f849b1e1a8331740b7b8cc467d3bc/assets/images/animations_col.gif)
 
 Programming and Development:
@@ -75,10 +89,11 @@ Amazon Web Services, Microsoft Azure, Google Cloud Computing.
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg) 
+
 
 ![Static Badge](https://img.shields.io/badge/Python-darkblue)
-</a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1" />
+</a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/>
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
