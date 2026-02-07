@@ -140,25 +140,8 @@ Hydrometeorology:
 </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a><a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
 </a><a href="https://opengeoai.org" target="_blank" rel="noreferrer"><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="geoai" width="40" height="40"/>
-
 </h2>
 
-<h2 align="center"> Projects and Collaborations 🤝 </h2>
-<h5 align="justify"> 
-<p align="center">
-
-- 🔭 I’m currently working on [the application of models and forecasts using GIS in hidrological resources and energy](https://github.com/CarlosMendez1997Col/models-and-forecasts-in-hidrological-resources-and-energy)
-
-- 🌱 I’m currently learning ** Frameworks of IA (TensorFlow-Keras), Amazon Web Services (AWS) and BigQuery**
-
-- 👯 I’m looking to collaborate on [in professional projects of modeling and forecasting hydrometeorology, climate change, water resources and agrometeorology)
-
-- 🤝 I’m looking for help with **optimization of machine learning and big data algorithms.**
-
-- 💬 Ask me about **GIS systems, Geosciences and Artificial Intelligence**
-
-- ⚡ Fun fact **I think I'm fun conversing in foreign languages, I love them.**
-</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
