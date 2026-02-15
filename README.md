@@ -108,14 +108,30 @@
 <h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in the development of tools for modeling, forecasting, analysis, and decision-making in projects related to water resource monitoring and management, hydroelectric and renewable energy, climate change scenarios, and artificial intelligence.</h5>
 
 <h5 align="justify">
-
-Geospatial Artificial Intelligence (GeoAI):
+Artificial Intelligence:
 <ol>
- <li>(Project under construction at SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
- <li> (Project developed at SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
+ <li> (SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
  <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
- <li> (Project developed at SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
- 
+</ol>
+
+About
+Development Protocols and Processes for Accessing Data from the Bolivia Surface Water Balance using monthly measurements of temperature, precipitation, runoff, evapotranspiration (real and reference) between 1980 and 2020.
+
+<h5 align="justify">
+
+WebMaps and Applications:
+<ol>
+<li>(SEI-Latam) Google Earth Engine-Apps</li>
+Development Protocols and Processes for Accessing Data from the Bolivia Surface Water Balance using monthly measurements of temperature, precipitation, runoff, evapotranspiration (real and reference) between 1980 and 2020.
+<li>ArcGIS Dashboards</li>
+Localização geográfica da Bacia Hidrográfica do Rio Paranapanema, Classificação climática Köppen-Geiger BHRP, Variação 2001-2023 precipitação e evapotranspiração potencial, Variação 2001-2023 índices SPI e SPEI, Previsão 2023-2025 precipitação e ETP, Previsão Índice SPEI-3 e SPEI-6 
+<li>ArcGIS Web Experience</li> 
+Localization Map Paranapanema River Basin, Köppen-Geiger Climate Paranapanema River Basin, Spatial and temporal evapotranspiration Paranapanema River Basin, Spatial and temporal precipitation patterns throughout 2023 – 2025
+<li>ArcGIS Web Maps</li> 
+Köppen-Geiger climate classification in the Paranapanema River Basin, Localização Geral Bacia Hidrográfica do Rio Paranapanema, Unidades Hidrelétricas(UHEs) e Pequenas Centrais Hidrelétricas (PCHs)	Url
+Unidades de Planejamento Hidrológico (UPHs), Municipios Bacia Hidrográfica do Rio Paranapanema
+<li>ArcGIS Instant Apps</li> 
+3D vista Rio Paranapanema e Massas d'agua
 </ol>
 
 <h5 align="justify">
@@ -123,19 +139,33 @@ Geospatial Artificial Intelligence (GeoAI):
 Water Resources Management:
  
 <ol>
-  <li>Monitoring-Agrometeorological-Resources (Precipitation-Rainfall, Evaporation-Evapotranspiration, Relative Humidity, Soil Moisture, Surface Temperature, Soil Water Storage, Surface Air Temperature, Vapor Pressure and Wind Speed in Google Earth Engine.</li>
-  <li>Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC</li>
-  <li> Exercises and technical test proposed by the Stockholm Environment Institute (SEI-Latam) in the Water Program </li>
+  <li>Monitoring-Agrometeorological-Resources such as: Precipitation-Rainfall, Evaporation-Evapotranspiration, Relative Humidity, Soil Moisture, Surface Temperature, Soil Water Storage, Surface Air Temperature, Vapor Pressure and Wind Speed.</li>
+  <li>Hydrological analysis of Hydrological data and maps based on SHuttle Elevation Derivatives at multiple Scales (HydroSHEDS), Global hydro-environmental sub-basin and river reach (HydroATLAS), Global sub-basin boundaries (HydroBASINS), Global river network (HydroRIVERS), Global database of lakes (HydroLAKES), Global Lakes and Wetlands Database (GLWD), Global database of wastewater treatment plants (HydroWASTE), Global River Classification (GloRiC) and  Global lake surface water temperature and ice phenology database (LakeTEMP)</li>
+  <li>Exercises and technical test proposed by the Stockholm Environment Institute (SEI-Latam) in the Water Program </li>
+  <li>Monitoring and supervision of water resources such as: NDVI-MNWDI-AWEI, Surface Water, Precipitation-Rainfall, Water Balance and Groundwater</li>
 </ol>
 
+
+<li></li>
+ 
 <h5 align="justify">
  
 Climate Change and Hydrometeorology:
 
 <ol>
-  <li>Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5)</li>
+<li>Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to water scarcity, water stress and water availability.</li>
+<li>Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5 in ArcGIS API for Python and ArcGIS Maps SDK for JavaScript.</li>
 </ol>
 
+<li></li>
+ 
+<h5 align="justify">
+ 
+Projects in construction and development of Geospatial Artificial Intelligence (GeoAI):
+<ol>
+<li>(SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+<li> (SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li> 
+</ol>
 <h5 align="justify">
 
 <h3 align="left">Connect with me:</h3>
