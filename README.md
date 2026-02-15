@@ -27,8 +27,6 @@
 ![Static Badge](https://img.shields.io/badge/Ruby-darkred) 
 </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmendez1997col&theme=highcontrast&size_weight=0.05&count_weight=0.2&langs_count=10)
- 
  </h2> 
 
 <h2 align="center">
