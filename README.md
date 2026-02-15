@@ -111,7 +111,16 @@
 
 Geospatial Artificial Intelligence (GeoAI):
 <ol>
-  <li>Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+  <li>(Project under construction at SEI-LA) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+ 
+ <li> (Project developed at SEI-LA) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
+WetSAT-ML, It consists of an open-source algorithm integrated with radar satellite data from the Sentinel-1 mission to generate wetland flooding extent maps, water permanence maps, and quantify key hydrological parameters, including flooded area time series, hydroperiods, and intra- and inter-annual wetland area trends. The algorithm will use machine learning models to characterize the scattering behavior of the radar signal for different wetland flooding conditions, enabling a pixel-level water detection in the satellite images.
+
+ <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
+Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume, Energy Useful Volume, Energy Inputs and Flow Inputs, using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN.
+
+ <li> (Project developed at SEI-LA) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
+ 
 </ol>
 
 <h5 align="justify">
