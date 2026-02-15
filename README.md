@@ -103,7 +103,7 @@
 
 </h2>
 
-<h2 align="left">About MSc Carlos Mendez👷🏽 </h2>
+<h2 align="left">About MSc Carlos Mendez</h2>
 
 <h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in the development of tools for modeling, forecasting, analysis, and decision-making in projects related to water resource monitoring and management, hydroelectric and renewable energy, climate change scenarios, and artificial intelligence.</h5>
 
