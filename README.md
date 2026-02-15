@@ -138,7 +138,7 @@ Unidades de Planejamento Hidrológico (UPHs), Municipios Bacia Hidrográfica do 
 
 Developed and ongoing projects in Geospatial Artificial Intelligence (GeoAI)::
 <ol>
- <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
+ <li> Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume, Energy Useful Volume, Energy Inputs and Flow Inputs, using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN. </li>
  <li> (in partnership with SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
  <li> (in partnership with SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
  <li> (in partnership with SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
