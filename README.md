@@ -111,15 +111,10 @@
 
 Geospatial Artificial Intelligence (GeoAI):
 <ol>
-  <li>(Project under construction at SEI-LA) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
- 
- <li> (Project developed at SEI-LA) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
-WetSAT-ML, It consists of an open-source algorithm integrated with radar satellite data from the Sentinel-1 mission to generate wetland flooding extent maps, water permanence maps, and quantify key hydrological parameters, including flooded area time series, hydroperiods, and intra- and inter-annual wetland area trends. The algorithm will use machine learning models to characterize the scattering behavior of the radar signal for different wetland flooding conditions, enabling a pixel-level water detection in the satellite images.
-
+ <li>(Project under construction at SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+ <li> (Project developed at SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
  <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
-Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume, Energy Useful Volume, Energy Inputs and Flow Inputs, using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN.
-
- <li> (Project developed at SEI-LA) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
+ <li> (Project developed at SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
  
 </ol>
 
@@ -128,33 +123,20 @@ Evaluation and simulation of inputs and reserves in hydroelectric power plants r
 Water Resources Management:
  
 <ol>
-  <li>Monitoring and control of water resources, surface and groundwater, water balance using satellite images (GPM, FLDAS, MODIS, Sentinel)</li>
+  <li>Monitoring-Agrometeorological-Resources (Precipitation-Rainfall, Evaporation-Evapotranspiration, Relative Humidity, Soil Moisture, Surface Temperature, Soil Water Storage, Surface Air Temperature, Vapor Pressure and Wind Speed in Google Earth Engine.</li>
   <li>Hydrological analysis of HydroSHEDS, HydroATLAS, HydroBASINS, HydroLAKES, HydroRIVERS, GLWD and GloRiC</li>
+  <li> Exercises and technical test proposed by the Stockholm Environment Institute (SEI-Latam) in the Water Program </li>
 </ol>
 
 <h5 align="justify">
  
-Climate Change:
+Climate Change and Hydrometeorology:
 
 <ol>
   <li>Evaluation of climate change scenarios (SSP2-4.5, SSP3-7.0 and SPP5-8.5) using Global Climate Models (CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5)</li>
 </ol>
 
 <h5 align="justify">
- 
-Hydroenergy and renewable energies: 
-
-<ol>
-  <li>Forecasts of stored levels in hydroelectric power plants: Daily Useful Volume, Daily Useful Energy Volume, Energy Contributions and Flow Rate</li>
-</ol>
- 
-<h5 align="justify">
- 
-Hydrometeorology:
-
-<ol>
-  <li>Forecasting of extreme hydrometeorological phenomena (droughts and floods) using indices (SPI, SPEI, PDSI)</li>
-</ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
