@@ -139,19 +139,19 @@ Unidades de Planejamento Hidrológico (UPHs), Municipios Bacia Hidrográfica do 
 Developed and ongoing projects in Geospatial Artificial Intelligence (GeoAI)::
 <ol>
  <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
- <li> (In collaboration with SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
- <li> (In collaboration with SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
- <li> (In collaboration with SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
+ <li> (in partnership with SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
+ <li> (in partnership with SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
+ <li> (in partnership with SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
 </ol>
 
 Developed and ongoing projects of GeoServices and Cloud Computing Services:
 <ol>
 <li> GeoDatabases And Cloud Computing Services For Water Resources Management</li>
-<li> (In collaboration with SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
-<li> (In collaboration with SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
-<li> (In collaboration with SEI-Latam) Design and architecture of the geographic geoportal for the Bolivia Watch Project </li>
 <li> Design and architecture of geographic geoportals </li>
 <li> Design and architecture of geographic geovisors </li>
+<li> (in partnership with SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
+<li> (in partnership with SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
+<li> (in partnership with SEI-Latam) Design and architecture of the geographic geoportal for the Bolivia Watch Project </li>
  
 </ol>
 <h5 align="justify">
