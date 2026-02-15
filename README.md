@@ -107,17 +107,19 @@
 
 <h5 align="justify"> Cadastral and Geodesic Engineer from the Francisco José de Caldas District University, Master's Degree in Geosciences and Environment from the São Paulo State University (UNESP), with professional experience in the development of tools for modeling, forecasting, analysis, and decision-making in projects related to water resource monitoring and management, hydroelectric and renewable energy, climate change scenarios, and artificial intelligence.</h5>
 
-<h5 align="justify">
-Artificial Intelligence:
+Water Resources Management:
 <ol>
- <li> (SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
- <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
+  <li>Monitoring-Agrometeorological-Resources such as: Precipitation-Rainfall, Evaporation-Evapotranspiration, Relative Humidity, Soil Moisture, Surface Temperature, Soil Water Storage, Surface Air Temperature, Vapor Pressure and Wind Speed.</li>
+  <li>Hydrological analysis of Hydrological data and maps based on SHuttle Elevation Derivatives at multiple Scales (HydroSHEDS), Global hydro-environmental sub-basin and river reach (HydroATLAS), Global sub-basin boundaries (HydroBASINS), Global river network (HydroRIVERS), Global database of lakes (HydroLAKES), Global Lakes and Wetlands Database (GLWD), Global database of wastewater treatment plants (HydroWASTE), Global River Classification (GloRiC) and  Global lake surface water temperature and ice phenology database (LakeTEMP)</li>
+  <li>Exercises and technical test proposed by the Stockholm Environment Institute (SEI-Latam) in the Water Program </li>
+  <li>Monitoring and supervision of water resources such as: NDVI-MNWDI-AWEI, Surface Water, Precipitation-Rainfall, Water Balance and Groundwater</li>
 </ol>
 
-About
-Development Protocols and Processes for Accessing Data from the Bolivia Surface Water Balance using monthly measurements of temperature, precipitation, runoff, evapotranspiration (real and reference) between 1980 and 2020.
-
-<h5 align="justify">
+Climate Change and Hydrometeorology:
+<ol>
+<li>Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to water scarcity, water stress and water availability.</li>
+<li>Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5 in ArcGIS API for Python and ArcGIS Maps SDK for JavaScript.</li>
+</ol>
 
 WebMaps and Applications:
 <ol>
@@ -134,37 +136,18 @@ Unidades de Planejamento Hidrológico (UPHs), Municipios Bacia Hidrográfica do 
 3D vista Rio Paranapanema e Massas d'agua
 </ol>
 
-<h5 align="justify">
- 
-Water Resources Management:
- 
+Artificial Intelligence:
 <ol>
-  <li>Monitoring-Agrometeorological-Resources such as: Precipitation-Rainfall, Evaporation-Evapotranspiration, Relative Humidity, Soil Moisture, Surface Temperature, Soil Water Storage, Surface Air Temperature, Vapor Pressure and Wind Speed.</li>
-  <li>Hydrological analysis of Hydrological data and maps based on SHuttle Elevation Derivatives at multiple Scales (HydroSHEDS), Global hydro-environmental sub-basin and river reach (HydroATLAS), Global sub-basin boundaries (HydroBASINS), Global river network (HydroRIVERS), Global database of lakes (HydroLAKES), Global Lakes and Wetlands Database (GLWD), Global database of wastewater treatment plants (HydroWASTE), Global River Classification (GloRiC) and  Global lake surface water temperature and ice phenology database (LakeTEMP)</li>
-  <li>Exercises and technical test proposed by the Stockholm Environment Institute (SEI-Latam) in the Water Program </li>
-  <li>Monitoring and supervision of water resources such as: NDVI-MNWDI-AWEI, Surface Water, Precipitation-Rainfall, Water Balance and Groundwater</li>
+ <li> (SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
+ <li> Modelling And Forecasting Hydropower Resources Using Artificial Intelligence </li>
 </ol>
 
-
-<li></li>
- 
-<h5 align="justify">
- 
-Climate Change and Hydrometeorology:
-
+Projects in construction and development of Geospatial Artificial Intelligence (GeoAI), Geotechnologies and Cloud Computing Services
 <ol>
-<li>Evaluation of extreme hydrometeorological phenomena such as droughts and low water periods, using the Standardized Precipitation Index (SPI), the Standardized Precipitation-Evapotranspiration Index (SPEI) and the Palmer Drought Severity Index (PDSI), in reference to water scarcity, water stress and water availability.</li>
-<li>Evaluation of climate change scenarios SSP2-4.5, SSP3-7.0, SPP5-8.5 and bioclimatic projections using Global Climate Models (GCM) CCma-CanESM2, MOHC-HadGEM2-ES and MIROC-MIROC5 in ArcGIS API for Python and ArcGIS Maps SDK for JavaScript.</li>
-</ol>
-
-<li></li>
- 
-<h5 align="justify">
- 
-Projects in construction and development of Geospatial Artificial Intelligence (GeoAI):
-<ol>
+<li> GeoDatabases And Cloud Computing Services For Water Resources Management</li>
 <li>(SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
-<li> (SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li> 
+<li> (SEI-Latam) Development of Advanced AI-ML-DL-NN-LLM-Generative Algorithms </li>
+<li> (SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
 </ol>
 <h5 align="justify">
 
