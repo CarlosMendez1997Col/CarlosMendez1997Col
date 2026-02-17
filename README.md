@@ -67,9 +67,10 @@
 </a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/> 
 ![Static Badge](https://img.shields.io/badge/Google_Cloud_Platform-white)
 </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="HTML" width="100" height="100"/> 
-![Static Badge](https://img.shields.io/badge/Amazon_Web_Services_(AWS)-FF9900)
+![Static Badge](https://img.shields.io/badge/Amazon_Web_Services-FF9900)
 </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="HTML" width="30" height="30"/> 
-
+![Static Badge](https://img.shields.io/badge/Microsoft_Azure-007FFF)
+</a> <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://arunpotti.com/wp-content/uploads/2021/12/microsoft_azure.svg_.png" alt="HTML" width="20" height="20"/> 
 </h2> 
 
 <h2 align="center">
