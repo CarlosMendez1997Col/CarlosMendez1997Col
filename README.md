@@ -31,7 +31,7 @@
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Geographical+Information+System+(GIS)+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=GIS+-+GeoServices+-+Geovisors+-+Geoportals%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
 </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/> 
