@@ -45,9 +45,9 @@
 ![Static Badge](https://img.shields.io/badge/MapServer-gray) 
 </a> <a href="https://mapserver.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/MapServer.png" alt="HTML" width="85" height="85"/> 
-![Static Badge](https://img.shields.io/badge/ArcGIS_WebAppBuilder-skyblue) 
-</a> <a href="https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm" target="_blank" rel="noreferrer">
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/WebAppBuilder.png" alt="HTML" width="20" height="20"/> 
+![Static Badge](https://img.shields.io/badge/GeoNode-blue) 
+</a> <a href="https://geonode.org/" target="_blank" rel="noreferrer">
+<img src="https://geonode.org/geonode-workshop/foss4git2017/css/img/geonode_logo.png" alt="HTML" width="85" height="85"/> 
 
  </h2> 
  
