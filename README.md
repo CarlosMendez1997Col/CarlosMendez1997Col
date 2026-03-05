@@ -154,7 +154,6 @@ Developed and ongoing projects of GeoServices and Cloud Computing Services:
 <li> Design and architecture of geographic geoportals </li>
 <li> Design and architecture of geographic geovisors </li>
 <li> (in partnership with SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
-<li> (in partnership with SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
 <li> (in partnership with SEI-Latam) Design and architecture of the geographic geoportal for the Bolivia Watch Project </li>
  
 </ol>
