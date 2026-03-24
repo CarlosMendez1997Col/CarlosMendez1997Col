@@ -129,15 +129,6 @@ WebMaps and Applications:
 <ol>
 <li>(SEI-Latam) Google Earth Engine-Apps</li>
 Development Protocols and Processes for Accessing Data from the Bolivia Surface Water Balance using monthly measurements of temperature, precipitation, runoff, evapotranspiration (real and reference) between 1980 and 2020.
-<li>ArcGIS Dashboards</li>
-Localização geográfica da Bacia Hidrográfica do Rio Paranapanema, Classificação climática Köppen-Geiger BHRP, Variação 2001-2023 precipitação e evapotranspiração potencial, Variação 2001-2023 índices SPI e SPEI, Previsão 2023-2025 precipitação e ETP, Previsão Índice SPEI-3 e SPEI-6 
-<li>ArcGIS Web Experience</li> 
-Localization Map Paranapanema River Basin, Köppen-Geiger Climate Paranapanema River Basin, Spatial and temporal evapotranspiration Paranapanema River Basin, Spatial and temporal precipitation patterns throughout 2023 – 2025
-<li>ArcGIS Web Maps</li> 
-Köppen-Geiger climate classification in the Paranapanema River Basin, Localização Geral Bacia Hidrográfica do Rio Paranapanema, Unidades Hidrelétricas(UHEs) e Pequenas Centrais Hidrelétricas (PCHs)	Url
-Unidades de Planejamento Hidrológico (UPHs), Municipios Bacia Hidrográfica do Rio Paranapanema
-<li>ArcGIS Instant Apps</li> 
-3D vista Rio Paranapanema e Massas d'agua
 </ol>
 
 Developed and ongoing projects in Geospatial Artificial Intelligence (GeoAI)::
