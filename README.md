@@ -35,6 +35,10 @@
   <thead>
     <tr style="text-align: center;">
       <th>Artificial Intelligence Frameworks</th>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
+        <td></a><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/></td>
+        <td></a><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td>
         <td></a></td>
         <td></a></td>
         <td></a></td>
@@ -113,10 +117,10 @@
 ![Static Badge](https://img.shields.io/badge/GeoAI-esmerald)
 
 </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a><a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+</a><a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+</a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+</a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+</a><a href="https://keras.io" target="_blank" rel="noreferrer">
 </a><a href="https://opengeoai.org" target="_blank" rel="noreferrer"><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="geoai" width="40" height="40"/>
 </h2>
 
