@@ -34,6 +34,30 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: center;">
+      <th>Artificial Intelligence Frameworks</th>
+        <td></a></td>
+        <td></a></td>
+        <td></a></td>
+        <td></a></td>
+    </tr>
+  </thead>
+</table>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th>Cloud Computing Systems and Services</th>
+        <td></a></td>
+        <td></a></td>
+        <td></a></td>
+        <td></a></td>
+    </tr>
+  </thead>
+</table>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
       <th>GIS and GeoServices</th>
         <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/></td>
         <td></a><img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/></td>
@@ -55,7 +79,6 @@
     </tr>
   </thead>
 </table>
-
 
 
 
