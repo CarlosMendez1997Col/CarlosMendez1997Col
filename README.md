@@ -38,13 +38,13 @@
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Scikit-Learn.png" alt="Scikit_learn" width="30"              height="30"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/TensorFlow.png" alt="Tensorflow" width="25"                  height="25"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Keras.png" alt="Keras" width="60" height="45"/></td>
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Pytorch.png" alt="pytorch" width="60" 
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Pytorch.png" alt="Pytorch" width="60" 
         height="45"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/0734efcb6b526ee074a24df94e152e763c23bb97/1.%20Attachments/LangChain.png" alt="LangChain" width="90" 
         height="120"/></td> 
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Hugging%20Face.png" alt="HuggingFace" width="100" 
         height="50"/></td>
-        <td></a><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="Geoai" width="25" height="25"/></td>
+        <td></a><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="GeoAI" width="25" height="25"/></td>
     </tr>
   </thead>
 </table>
@@ -53,13 +53,13 @@
   <thead>
     <tr style="text-align: center;">
       <th>Cloud Computing Systems and Services</th>
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Google%20Earth%20Engine.png" alt="HTML" 
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Google%20Earth%20Engine.png" alt="GEE" 
          width="20" height="20"/></td>
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Google%20Cloud%20Platform.png" alt="HTML"   
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Google%20Cloud%20Platform.png" alt="GCP"   
          width="20" height="20"/> </td>
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Amazon%20Web%20Services.png" alt="HTML" 
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Amazon%20Web%20Services.png" alt="AWS" 
          width="30" height="30"/> </td>
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Microsoft%20Azure.png" alt="HTML" 
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Microsoft%20Azure.png" alt="Azure" 
          width="20" height="20"/> </td>
     </tr>
   </thead>
@@ -69,7 +69,7 @@
   <thead>
     <tr style="text-align: center;">
       <th>GIS and Geospatial Services</th>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/></td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="QGIS" width="20" height="20"/></td>
         <td></a><img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/9629d369cdb1bfa03e976cd47f7a76d43d1dffc9/1.%20Attachments/GeoServer.png" alt="GeoServer" width="85" 
         height="20"/></td>
@@ -77,6 +77,28 @@
         height="20"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/9629d369cdb1bfa03e976cd47f7a76d43d1dffc9/1.%20Attachments/GeoNode.png" alt="GeoNode" width="75" 
         height="20"/></td>
+    </tr>
+  </thead>
+</table>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th> WebMaps - Geovisors - Geoportals</th>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/a5bb666e55f0074e67b1b8b3d71f6d38dad45c97/1.%20Attachments/Angular.png" alt="Angular" width="60" 
+         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/a5bb666e55f0074e67b1b8b3d71f6d38dad45c97/1.%20Attachments/React.png" alt="React" width="20" 
+         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/a5bb666e55f0074e67b1b8b3d71f6d38dad45c97/1.%20Attachments/Vue.png" alt="Vue" width="60" 
+         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/Leaflet.png" alt="Leaflet" width="60" 
+         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/OpenLayers.png" alt="OpenLayers" width="60" 
+         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/maplibre.png" alt="maplibre" width="60" 
+         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/CesiumJS.png" alt="CesiumJS" width="20" 
+         height="20"/></td>
     </tr>
   </thead>
 </table>
