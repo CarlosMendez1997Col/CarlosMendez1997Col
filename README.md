@@ -107,10 +107,10 @@
   <thead>
     <tr style="text-align: center;">
       <th>Application Programming Interface (API)</th>
-        <td></a><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/></td>
-        <td></a><img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/></td>
-        <td></a></td>
-        <td></a></td>
+        <td></a><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="ArcPy" width="20" height="20"/></td>
+        <td></a><img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="ArcGIS JS" width="20" height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/804ad8d1895bae32d63897b8f23acdbf0d294534/1.%20Attachments/GeeMap.png" alt="GeeMap" width="20" 
+         height="20"/></td>
     </tr>
   </thead>
 </table>
