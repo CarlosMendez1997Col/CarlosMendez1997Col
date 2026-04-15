@@ -12,9 +12,11 @@
 
 </h2> 
 
-<table border="0.5" class="dataframe">
+<h4 align="center">
+ 
+<table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: center;">
       <th>Programming Languages</th>
         <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/></td>
         <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23"/></td>
@@ -27,24 +29,22 @@
       </td>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <th>GIS GeoServices Geovisors Geoportals</th>
-    </tr>
-    <tr>
-      <th>Application Programming Interface (API) </th>
-    </tr>
-    <tr>
-      <th>Cloud Computing Systems and Services</th>
-    </tr>
-    <tr>
-      <th>Artificial Intelligence Frameworks</th>
-    </tr>
-  </tbody>
 </table>
-</div>
 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th>GIS - GeoServices - Geovisors - Geoportals</th>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/></td>
+        <td></a><img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/></td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png" alt="R" width="75" height="20"/></td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/MapServer.png" alt="HTML" width="75" height="20"/></td>
+        <td></a><img src="https://geonode.org/geonode-workshop/foss4git2017/css/img/geonode_logo.png" alt="HTML" width="75" height="20"/></td>
+    </tr>
+  </thead>
+</table>
 
+</h4> 
 
 <h2 align="center">
 
@@ -52,19 +52,19 @@
 
 ![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
 </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/> 
+
 ![Static Badge](https://img.shields.io/badge/ArcGIS-darkblue) 
 </a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> 
-<img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/> 
+
 ![Static Badge](https://img.shields.io/badge/GeoServer-darkgreen) 
 </a> <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png" alt="R" width="85" height="85"/>
+
 ![Static Badge](https://img.shields.io/badge/MapServer-gray) 
 </a> <a href="https://mapserver.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/MapServer.png" alt="HTML" width="85" height="85"/> 
+
 ![Static Badge](https://img.shields.io/badge/GeoNode-blue) 
 </a> <a href="https://geonode.org/" target="_blank" rel="noreferrer">
-<img src="https://geonode.org/geonode-workshop/foss4git2017/css/img/geonode_logo.png" alt="HTML" width="85" height="85"/> 
+
 
  </h2> 
  
