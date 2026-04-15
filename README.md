@@ -37,45 +37,36 @@
       <th>GIS and GeoServices</th>
         <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/></td>
         <td></a><img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/></td>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png" alt="R" width="75" height="20"/></td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png" alt="R" width="85" height="20"/></td>
         <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/MapServer.png" alt="HTML" width="75" height="20"/></td>
         <td></a><img src="https://geonode.org/geonode-workshop/foss4git2017/css/img/geonode_logo.png" alt="HTML" width="75" height="20"/></td>
     </tr>
   </thead>
 </table>
 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: center;">
+      <th>Application Programming Interface (API)</th>
+        <td></a><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/></td>
+        <td></a><img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/></td>
+        <td></a></td>
+        <td></a></td>
+    </tr>
+  </thead>
+</table>
+
 </h4> 
 
-<h2 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=GIS+-+GeoServices+-+Geovisors+-+Geoportals%F0%9F%8C%8D)](https://git.io/typing-svg)
-
-![Static Badge](https://img.shields.io/badge/QGIS-darkgreen) 
-</a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> 
-
-![Static Badge](https://img.shields.io/badge/ArcGIS-darkblue) 
-</a> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> 
-
-![Static Badge](https://img.shields.io/badge/GeoServer-darkgreen) 
-</a> <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> 
-
-![Static Badge](https://img.shields.io/badge/MapServer-gray) 
-</a> <a href="https://mapserver.org/" target="_blank" rel="noreferrer">
-
-![Static Badge](https://img.shields.io/badge/GeoNode-blue) 
-</a> <a href="https://geonode.org/" target="_blank" rel="noreferrer">
-
-
- </h2> 
  
 <h2 align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/ArcGIS_API_for_Python-darkorange) 
-</a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/APIforPython.png" alt="HTML" width="20" height="20"/> 
+</a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer">
 ![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
-</a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/07c3cd36-3660-4e64-89ec-ca42339b3294" alt="HTML" width="20" height="20"/> 
+</a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
 
 </h2>
 
