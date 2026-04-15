@@ -56,19 +56,13 @@
   </thead>
 </table>
 
+
+
+
+
+
 </h4> 
 
- 
-<h2 align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Application+Programming+Interface+(API)+;Software+Development+Kits+(SDKs)+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-![Static Badge](https://img.shields.io/badge/ArcGIS_API_for_Python-darkorange) 
-</a> <a href="https://developers.arcgis.com/python/latest/" target="_blank" rel="noreferrer">
-![Static Badge](https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JavaScript-darkblue) 
-</a> <a href="https://developers.arcgis.com/javascript/latest/" target="_blank" rel="noreferrer">
-
-</h2>
 
 <h2 align="center"> 
  
