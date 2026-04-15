@@ -71,9 +71,12 @@
       <th>GIS and Geospatial Services</th>
         <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="R" width="20" height="20"/></td>
         <td></a><img src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="ArcGIS Pro" width="20" height="20"/></td>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png" alt="R" width="85" height="20"/></td>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/MapServer.png" alt="HTML" width="75" height="20"/></td>
-        <td></a><img src="https://geonode.org/geonode-workshop/foss4git2017/css/img/geonode_logo.png" alt="HTML" width="75" height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/9629d369cdb1bfa03e976cd47f7a76d43d1dffc9/1.%20Attachments/GeoServer.png" alt="GeoServer" width="85" 
+        height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/9629d369cdb1bfa03e976cd47f7a76d43d1dffc9/1.%20Attachments/MapServer.png" alt="MapServer" width="75" 
+        height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/9629d369cdb1bfa03e976cd47f7a76d43d1dffc9/1.%20Attachments/GeoNode.png" alt="GeoNode" width="75" 
+        height="20"/></td>
     </tr>
   </thead>
 </table>
