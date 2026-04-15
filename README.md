@@ -42,8 +42,8 @@
         height="45"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/0734efcb6b526ee074a24df94e152e763c23bb97/1.%20Attachments/LangChain.png" alt="LangChain" width="90" 
         height="120"/></td> 
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Hugging%20Face.png" alt="HuggingFace" width="60" 
-        height="45"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Hugging%20Face.png" alt="HuggingFace" width="100" 
+        height="50"/></td>
         <td></a><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="Geoai" width="25" height="25"/></td>
     </tr>
   </thead>
