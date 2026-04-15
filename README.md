@@ -8,16 +8,48 @@
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+programming+languages%F0%9F%96%A5)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Top+Skills+and+Stack%F0%9F%96%A5)](https://git.io/typing-svg) 
 
-![Static Badge](https://img.shields.io/badge/Python-darkblue)
-</a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/>
+<table border="0.5" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Programming Languages</th>
+      <td>
+          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/>
+          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
+          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
+          </a><img width="25" height="25" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+          </a><img width="20" height="20" alt="image" src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/6420a474bd120bc87180d20fb634e973e804007f/1.%20Attachments/database.png" />
+          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
+          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
+          </a><img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>GIS GeoServices Geovisors Geoportals</th>
+    </tr>
+    <tr>
+      <th>Application Programming Interface (API) </th>
+    </tr>
+    <tr>
+      <th>Cloud Computing Systems and Services</th>
+    </tr>
+    <tr>
+      <th>Artificial Intelligence Frameworks</th>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
 </a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img width="25" height="25" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+
 ![Static Badge](https://img.shields.io/badge/SQL-darkblue)
 </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img width="20" height="20" alt="image" src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/6420a474bd120bc87180d20fb634e973e804007f/1.%20Attachments/database.png" />
 ![Static Badge](https://img.shields.io/badge/R-grey) 
