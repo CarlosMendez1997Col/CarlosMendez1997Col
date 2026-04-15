@@ -93,10 +93,10 @@
          height="20"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/Leaflet.png" alt="Leaflet" width="60" 
          height="20"/></td>
-        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/OpenLayers.png" alt="OpenLayers" width="60" 
-         height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/OpenLayers.png" alt="OpenLayers" width="70" 
+         height="40"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/maplibre.png" alt="maplibre" width="60" 
-         height="20"/></td>
+         height="30"/></td>
         <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/fb17a34ce169996c5ab4c212760f3084dcdd2e6d/1.%20Attachments/CesiumJS.png" alt="CesiumJS" width="20" 
          height="20"/></td>
     </tr>
