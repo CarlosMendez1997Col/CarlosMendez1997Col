@@ -35,13 +35,16 @@
   <thead>
     <tr style="text-align: center;">
       <th>Artificial Intelligence Frameworks</th>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
-        <td></a><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/></td>
-        <td></a><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td>
-        <td></a></td>
-        <td></a></td>
-        <td></a><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="geoai" width="40" height="40"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Scikit-Learn.png" alt="Scikit_learn" width="30"              height="30"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/TensorFlow.png" alt="Tensorflow" width="25"                  height="25"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Keras.png" alt="Keras" width="60" height="45"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Pytorch.png" alt="pytorch" width="60" 
+        height="45"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/LangChain.png" alt="LangChain" width="90" 
+        height="120"/></td> 
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/ee5faadc0e51b4c40303d1208078fd44c1477eb2/1.%20Attachments/Hugging%20Face.png" alt="HuggingFace" width="60" 
+        height="45"/></td>
+        <td></a><img src="https://github.com/opengeos/geoai/blob/main/docs/assets/logo.png" alt="Geoai" width="25" height="25"/></td>
     </tr>
   </thead>
 </table>
