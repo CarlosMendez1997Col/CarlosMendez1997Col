@@ -47,10 +47,10 @@
   <thead>
     <tr style="text-align: center;">
       <th>Cloud Computing Systems and Services</th>
-        <td></a></td>
-        <td></a></td>
-        <td></a></td>
-        <td></a></td>
+        <td></a><img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/></td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="HTML" width="100" height="100"/> </td>
+        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="HTML" width="30" height="30"/> </td>
+        <td></a><img src="https://arunpotti.com/wp-content/uploads/2021/12/microsoft_azure.svg_.png" alt="HTML" width="20" height="20"/> </td>
     </tr>
   </thead>
 </table>
@@ -92,13 +92,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+And+Services+%F0%9F%9B%B0)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-grey)
-</a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/> 
+</a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> 
 ![Static Badge](https://img.shields.io/badge/Google_Cloud_Platform-white)
-</a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="HTML" width="100" height="100"/> 
+</a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
 ![Static Badge](https://img.shields.io/badge/Amazon_Web_Services-FF9900)
-</a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="HTML" width="30" height="30"/> 
+</a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
 ![Static Badge](https://img.shields.io/badge/Microsoft_Azure-007FFF)
-</a> <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://arunpotti.com/wp-content/uploads/2021/12/microsoft_azure.svg_.png" alt="HTML" width="20" height="20"/> 
+</a> <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
 </h2> 
 
 <h2 align="center">
