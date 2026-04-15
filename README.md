@@ -53,10 +53,14 @@
   <thead>
     <tr style="text-align: center;">
       <th>Cloud Computing Systems and Services</th>
-        <td></a><img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="HTML" width="20" height="20"/></td>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="HTML" width="100" height="100"/> </td>
-        <td></a><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="HTML" width="30" height="30"/> </td>
-        <td></a><img src="https://arunpotti.com/wp-content/uploads/2021/12/microsoft_azure.svg_.png" alt="HTML" width="20" height="20"/> </td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Google%20Earth%20Engine.png" alt="HTML" 
+         width="20" height="20"/></td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Google%20Cloud%20Platform.png" alt="HTML"   
+         width="20" height="20"/> </td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Amazon%20Web%20Services.png" alt="HTML" 
+         width="30" height="30"/> </td>
+        <td></a><img src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/8623207b01f7e3f901c0fe9af1454b30e677f9c1/1.%20Attachments/Microsoft%20Azure.png" alt="HTML" 
+         width="20" height="20"/> </td>
     </tr>
   </thead>
 </table>
