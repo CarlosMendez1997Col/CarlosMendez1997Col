@@ -16,15 +16,14 @@
   <thead>
     <tr style="text-align: right;">
       <th>Programming Languages</th>
-      <td>
-          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/>
-          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23" />
-          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c" />
-          </a><img width="25" height="25" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
-          </a><img width="20" height="20" alt="image" src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/6420a474bd120bc87180d20fb634e973e804007f/1.%20Attachments/database.png" />
-          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb" />
-          </a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847" />
-          </a><img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />
+        <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81556416-dea4-4c9d-8698-819a61c79bf1"/><td>
+        <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e002d985-e2c9-4ede-8d8d-2890ae36ff23"/></td>
+        <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/946661b2-e1ca-4c81-8958-15a5cd22842c"/></td>
+        <td></a><img width="25" height="25" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/></td>
+        <td></a><img width="20" height="20" alt="image" src="https://github.com/CarlosMendez1997Col/CarlosMendez1997Col/blob/6420a474bd120bc87180d20fb634e973e804007f/1.%20Attachments/database.png"/>           </td>
+        <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0befaa3d-3790-4240-856f-97aafec8e3fb"/></td>
+        <td></a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5e3463b7-f4fa-4671-a591-72b07eba7847"/></td>
+        <td></a><img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"/></td>
       </td>
     </tr>
   </thead>
