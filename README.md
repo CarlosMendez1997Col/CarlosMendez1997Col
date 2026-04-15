@@ -90,39 +90,6 @@
 </h4> 
 
 
-<h2 align="center"> 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&lines=Cloud+Computing+Systems+And+Services+%F0%9F%9B%B0)](https://git.io/typing-svg)
-
-![Static Badge](https://img.shields.io/badge/Google_Earth_Engine-grey)
-</a> <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> 
-![Static Badge](https://img.shields.io/badge/Google_Cloud_Platform-white)
-</a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-![Static Badge](https://img.shields.io/badge/Amazon_Web_Services-FF9900)
-</a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-![Static Badge](https://img.shields.io/badge/Microsoft_Azure-007FFF)
-</a> <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
-</h2> 
-
-<h2 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=650&lines=Artificial+Intelligence+Frameworks+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-![Static Badge](https://img.shields.io/badge/OpenCV-darkgreen)
-![Static Badge](https://img.shields.io/badge/Pytorch-darkorange)
-![Static Badge](https://img.shields.io/badge/ScikitLearn-blue)
-![Static Badge](https://img.shields.io/badge/TensorFlow-yellow)
-![Static Badge](https://img.shields.io/badge/Keras-darkred)
-![Static Badge](https://img.shields.io/badge/GeoAI-esmerald)
-
-</a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</a><a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-</a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-</a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-</a><a href="https://keras.io" target="_blank" rel="noreferrer">
-</a><a href="https://opengeoai.org" target="_blank" rel="noreferrer">
-</h2>
-
 <h2 align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=700&color=44CFF7FF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Statistics+and+Metrics+on+GitHub%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
