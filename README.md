@@ -168,9 +168,9 @@ Developed and ongoing projects in Artificial Intelligence and GeoAI:
 
 Developed and ongoing projects of GeoServices and Cloud Computing Services:
 <ol>
-<li> GeoDatabases And Cloud Computing Services For Water Resources Management</li>
-<li> Design and architecture of geographic geoportals </li>
-<li> Design and architecture of geographic geovisors </li>
+<li> (SEI-Latam) GeoDatabases And Cloud Computing Services For Water Resources Management</li>
+<li> (SEI-Latam) Design and architecture of geographic geoportals (Geoportals) </li>
+<li> (SEI-Latam) Design and architecture of geographic geovisors  (Geovisors) </li>
 <li> (SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
 <li> (SEI-Latam) Design and architecture of the geographic geoportal for the Bolivia Watch Project </li>
  
