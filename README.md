@@ -158,7 +158,7 @@ WebMaps and Applications:
 Development Protocols and Processes for Accessing Data from the Bolivia Surface Water Balance using monthly measurements of temperature, precipitation, runoff, evapotranspiration (real and reference) between 1980 and 2020.
 </ol>
 
-Developed and ongoing projects in Geospatial Artificial Intelligence (GeoAI)::
+Developed and ongoing projects in Artificial Intelligence and GeoAI:
 <ol>
  <li> Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume, Energy Useful Volume, Energy Inputs and Flow Inputs, using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN. </li>
  <li> (SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
