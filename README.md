@@ -162,8 +162,8 @@ Developed and ongoing projects in Artificial Intelligence and GeoAI:
 <ol>
  <li> Evaluation and simulation of inputs and reserves in hydroelectric power plants referring to Daily Useful Volume, Energy Useful Volume, Energy Inputs and Flow Inputs, using Artificial Intelligence algorithms such as: Auto Regressive Neural Networks (NNAR), Long Short-Term Memory (LSTM) and ResCNNN. </li>
  <li> (SEI-Latam) Wetlands flooding extent and trends using SATellite data and Machine Learning </li>
- <li> (SEI-Latam) Development of geoportals for the visualization and simulation of digital twins in real-time</li>
- <li> (SEI-Latam) Development of an AI Agent for Web Deep Search </li>
+ <li> (SEI-Latam) Development of WebApps for the visualization and simulation of digital twins in real-time</li>
+ <li> (SEI-Latam) Development of an AI Generative Model for search calls for proposals </li>
 </ol>
 
 Developed and ongoing projects of GeoServices and Cloud Computing Services:
@@ -172,7 +172,6 @@ Developed and ongoing projects of GeoServices and Cloud Computing Services:
 <li> (SEI-Latam) Design and architecture of geographic geoportals (Geoportals) </li>
 <li> (SEI-Latam) Design and architecture of geographic geovisors  (Geovisors) </li>
 <li> (SEI-Latam) Automation of satellite image downloads using GeeMap and APIs REST </li>
-<li> (SEI-Latam) Design and architecture of the geographic geoportal for the Bolivia Watch Project </li>
  
 </ol>
 <h5 align="justify">
